@@ -252,6 +252,7 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'app.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -344,6 +345,8 @@
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
       };
     </script>
+
+    <script defer="defer" scr="{{ 'app.js' | asset_url }}"></script>
 
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
