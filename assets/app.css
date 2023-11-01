@@ -402,7 +402,7 @@ details[open] > .share-button__fallback {
 }
 
 h1, h2, h3 {
-  font-family: Tiempos, Serif !important;
+  font-family: "Libre Baskerville", serif, Tiempos, Serif !important;
 }
 
 h4, h5, p, span, a, li {
