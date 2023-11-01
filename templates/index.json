@@ -94,6 +94,23 @@
         "padding_bottom": 0
       }
     },
+    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -191,6 +208,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "multicolumn",
     "collage"
   ]
