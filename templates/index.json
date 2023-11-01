@@ -52,21 +52,38 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "The Quakers way",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We all have within us a Light by which we can commune directly with God<br\/>(however you understand the Divine) without any go-betweens.<\/p>"
+          }
+        },
+        "187371e5-4b4e-4029-910a-8ee5e8437bec": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome",
+            "heading_size": "h1"
+          }
+        },
+        "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social<br\/>circumstances, sexual orientations, and gender identities.<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "187371e5-4b4e-4029-910a-8ee5e8437bec",
+        "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9"
       ],
       "settings": {
         "desktop_content_position": "center",
