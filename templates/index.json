@@ -97,10 +97,10 @@
     "35b70d09-aa89-4d8a-9234-51848d1f7230": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Our Programs / VIEW ALL",
+        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
         "heading_size": "h1",
         "blog": "",
-        "post_limit": 6,
+        "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "",
         "show_image": true,
