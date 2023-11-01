@@ -203,6 +203,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8d579337-0713-454c-a420-91cd5b1761ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The light within",
+            "heading_size": "h1"
+          }
+        },
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-heading-1",
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1",
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -210,6 +256,7 @@
     "rich_text",
     "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "multicolumn",
-    "collage"
+    "collage",
+    "8d579337-0713-454c-a420-91cd5b1761ad"
   ]
 }
