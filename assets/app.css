@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Antic+Didone&family=Italiana&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap);
 /* component-button */
 /* Button - default */
 .button--secondary,
@@ -389,6 +389,22 @@ details[open] > .share-button__fallback {
   display: none;
 }
 
+@font-face {
+  font-family: "Tiempos";
+  src: url(/fonts/TiemposText-Regular.otf?a124c41af18389024fc73298856a0db7);
+}
+@font-face {
+  font-family: "AlrightSansLT";
+  src: url(/fonts/AlrightSans-Regular.otf?59d8c8ab8a1d0dc02c798f6dafa4e514);
+}
 * {
   box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  font-family: Tiempos, Serif !important;
+}
+
+h4, h5, p, span, a, li {
+  font-family: AlrightSansLT, sans-serif !important;
 }
