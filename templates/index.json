@@ -35,6 +35,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/clouds-2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-left",
@@ -143,6 +144,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/clouds.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -267,6 +269,7 @@
         "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/racestroom.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -461,6 +464,7 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.12.29_PM.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
