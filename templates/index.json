@@ -218,6 +218,98 @@
         "padding_bottom": 36
       }
     },
+    "b1d3dc25-1886-4385-aff2-4b5945295b9b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1",
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1",
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-heading-1",
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1",
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
       "settings": {
@@ -502,54 +594,9 @@
         "padding_bottom": 36
       }
     },
-    "b1d3dc25-1886-4385-aff2-4b5945295b9b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1",
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1",
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4c3cfd30-718b-4290-9634-f66ecbbc8cbd": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d6116.7162626199515!2d-75.165791!3d39.955745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c7ae1345c9a1%3A0x4734a938c59100a7!2s1501%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1698959712716!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "",
@@ -564,13 +611,14 @@
     "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
+    "b1d3dc25-1886-4385-aff2-4b5945295b9b",
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "collage",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
     "multicolumn",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
-    "b1d3dc25-1886-4385-aff2-4b5945295b9b",
     "4c3cfd30-718b-4290-9634-f66ecbbc8cbd"
   ]
 }
