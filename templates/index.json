@@ -163,8 +163,8 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Hybrid Worship",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
@@ -172,7 +172,7 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Children & Families",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
