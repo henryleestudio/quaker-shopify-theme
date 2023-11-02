@@ -290,10 +290,10 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "Let us act for equality & equity",
+            "heading": "Working for True Equality and Justice for All",
+            "text": "<p>• Join or support organizations led by people of color which are working for the<br\/>empowerment of black, brown, indigenous and Asian people and communities.<br\/>• Speak, write, and protest in support for full equality of all people in American<br\/>society, whatever their racial or sexual identity, gender, or class.<br\/>• Support legislative and economic changes that would lead to actual equity<br\/>among all peoples.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
