@@ -172,9 +172,9 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Children & Families",
+            "heading": "Families with Children",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<h3>Welcome!<\/h3><p>We welcome families with children.<\/p><ul><li><strong>Childcare.<\/strong> We offer childcare for little ones during meeting for worship and during most of our other meeting activities.<\/li><li><strong>Worship.<\/strong> We do invite families to bring their children to the meeting for worship. Because we meet in silence and kids are rarely silent, we're happy to work with parents to make this a comfortable experience for you.<\/li><li><strong>\"Sunday School\".<\/strong> We offer religious education for older children. Click here to go our page on <a href=\"https:\/\/www.quakercloud.org\/cloud\/central-philadelphia-monthly-meeting\/resources\/religious-education-children\">Religious Education for Children<\/a>.<\/li><\/ul><p>Child Safety<\/p><p>Download our <a href=\"https:\/\/www.fgcquaker.org\/cloud\/central-philadelphia-monthly-meeting\/resources\/cpmm-policy-safety-our-meeting-s-children\" target=\"_blank\">policy on the safety of our children<\/a>.<\/p>",
             "page": ""
           }
         },
