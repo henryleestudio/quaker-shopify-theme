@@ -205,7 +205,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -223,12 +223,12 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "blog": "",
+        "blog": "articles",
         "post_limit": 2,
         "columns_desktop": 2,
         "color_scheme": "",
         "show_image": true,
-        "show_date": true,
+        "show_date": false,
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
