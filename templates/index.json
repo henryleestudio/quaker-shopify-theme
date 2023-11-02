@@ -190,9 +190,9 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Who We Are",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Philadelphia Yearly Meeting is Central Philadelphia Meeting’s denominational organization. It meets annually for several days to conduct most of its business. <\/p>",
             "page": ""
           }
         }
@@ -385,8 +385,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "The Quakers way",
-            "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. We do not have paid professional ministers. Rather, Quaker ministers are Friends who have felt led by the Spirit to pursue some service and now pursue that service under the care of the meeting; this care is the responsibility of our Gifts and Leadings Committee.<\/p>",
+            "title": "Who We Are",
+            "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
             "link_label": "",
             "link": ""
           }
