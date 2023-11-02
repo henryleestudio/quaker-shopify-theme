@@ -243,14 +243,14 @@
         "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Social Concerns",
+            "heading_size": "h2"
           }
         },
         "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Quakers have a long and venerable history of working to make the world a better place, and our meeting continues to seek ways to build a more peaceful, just, and sustainable society. <br\/><br\/>At the same time, we must confess that unfortunately we continue to struggle to release ourselves from the legacies of privilege, of our past.<br\/><br\/>We are actively engaged in the struggle, with the help of the Holy Spirit, to achieve healing and integrity in our community, and to continue to bring our faith values to the healing of the world.  <\/p>",
             "text_style": "body"
           }
         },
