@@ -12,25 +12,25 @@
             "menu": "footer"
           }
         },
+        "0f4ec806-269f-43da-b5e9-1e5d7a1b1e27": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Join Us<\/strong>",
+            "subtext": "<p>At The Friends Center 1501 Cherry Street Philadelphia, PA 19102<\/p>"
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
             "heading": "Our Values:",
             "subtext": "<p>Simplicity, Peace, Integrity, Community, Equality and Stewardship is what we aim to embody. <a href=\"http:\/\/www.friendsjournal.org\/s-p-i-c-e-s-quaker-testimonies\/\" target=\"_blank\">Read more about Quaker Values in Friends Journal<\/a>.<\/p>"
           }
-        },
-        "0f4ec806-269f-43da-b5e9-1e5d7a1b1e27": {
-          "type": "text",
-          "settings": {
-            "heading": "Address",
-            "subtext": "<p>Central Philadelphia Monthly Meetingat Friends Center1501 Cherry StreetPhiladelphia,PA19102United States<\/p>"
-          }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-2",
-        "0f4ec806-269f-43da-b5e9-1e5d7a1b1e27"
+        "0f4ec806-269f-43da-b5e9-1e5d7a1b1e27",
+        "footer-2"
       ],
       "settings": {
         "color_scheme": "background-1",
