@@ -1,0 +1,23 @@
+// @import 'reset';
+@import 'variables';
+@import 'button';
+@font-face {
+  font-family: "Tiempos";
+  src: url("../fonts/Tiempos/TiemposText/TiemposText-Regular.otf");
+}
+@font-face {
+  font-family: "AlrightSansLT";
+  src: url("../fonts/AlrightSans/AlrightSans-Regular.otf");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  font-family: $baskerville, Tiempos, Serif !important;
+}
+
+h4, h5, p, span, a, li {
+  font-family: AlrightSansLT, sans-serif !important;
+}

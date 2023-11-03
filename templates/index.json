@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Central Philadelphia Monthly Q<em>uaker<\/em> Meeting",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Join us for worship Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "LEARN MORE",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,12 +35,14 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/clouds-2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -52,45 +54,280 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "The light within",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We all have within us a Light by which we can commune directly with God<br\/><em>however you understand the Divine<\/em> without any go-betweens<\/p>"
+          }
+        },
+        "187371e5-4b4e-4029-910a-8ee5e8437bec": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Welcome",
+            "heading_size": "h1"
+          }
+        },
+        "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social<br\/>circumstances, sexual orientations, and gender identities.<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "187371e5-4b4e-4029-910a-8ee5e8437bec",
+        "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
+      "type": "featured-blog",
       "settings": {
-        "title": "Featured products",
+        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
         "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
+        "blog": "",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d579337-0713-454c-a420-91cd5b1761ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to our meeting for worship",
+            "heading_size": "h2"
+          }
+        },
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social circumstances, sexual orientations, and gender identities.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN US",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-heading-1",
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1",
+        "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/clouds.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d4c7336-7021-490b-815e-6ebffc0a7f92": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who We Are",
+            "icon": "none",
+            "row_content": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
+            "page": ""
+          }
+        },
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hybrid Worship",
+            "icon": "none",
+            "row_content": "<p>You can also join us via Zoom. Here’s the link and login info:<\/p><p><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\">https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09<br\/><br\/><\/a>Meeting ID: 550 104 323<br\/>Passcode: cpmm<\/p>",
+            "page": ""
+          }
+        },
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Families & Children",
+            "icon": "none",
+            "row_content": "<h3>Welcome!<\/h3><p>We welcome families with children.<br\/><br\/>We currently provide childcare for very young children during our meeting for worship, and offer a Youth Religious Education activity for school-age children on the third Sunday of every month (except during the summer).<\/p><ul><li><strong>Childcare.<\/strong> We offer childcare for little ones during meeting for worship and during most of our other meeting activities.<\/li><li><strong>Worship.<\/strong> We do invite families to bring their children to the meeting for worship. Because we meet in silence and kids are rarely silent, we're happy to work with parents to make this a comfortable experience for you.<\/li><li><strong>\"Sunday School\".<\/strong> We offer religious education for older children. Click here to go our page on <a href=\"https:\/\/www.quakercloud.org\/cloud\/central-philadelphia-monthly-meeting\/resources\/religious-education-children\">Religious Education for Children<\/a>.<\/li><\/ul><p>Child Safety<\/p><p>Download our <a href=\"https:\/\/www.fgcquaker.org\/cloud\/central-philadelphia-monthly-meeting\/resources\/cpmm-policy-safety-our-meeting-s-children\" target=\"_blank\">policy on the safety of our children<\/a>.<br\/><br\/>\"What if I have babies or toddlers?\"Every Sunday, a paid caregiver is joined by one or more adult members of the Meeting for worship the way young ones do best — playing.<br\/><br\/><strong>\"What is First Day School?\"<\/strong><\/p><p><strong>Every third Sunday, CPMM's Youth Religious Education Committee provides a meaningful activity for children of all ages. <\/strong><\/p><p>First Day School is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p><p>We aim to support young Quakers in living a spiritual life, while their parents attend worship to enrich their own lives. The experience differs by age group. Parents are welcome to attend with their child but are not expected to.<br\/><br\/><strong>\"What does Quaker Spiritual Education for Kids Look Like?\"<\/strong><\/p><p>Throughout the entire process Quaker values of Simplicity, Peace, Integrity, Community, Equality and Stewardship are always embodied and talked about. <a href=\"http:\/\/www.friendsjournal.org\/s-p-i-c-e-s-quaker-testimonies\/\" target=\"_blank\">Read more about Quaker Values in Friends Journal<\/a>.<\/p><p>Every Sunday CPMM children meet at 11AM in Room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. <\/p><ul><li>The <strong>1st and 4th Sundays<\/strong> we then split into age groups for classes: Preschool through First grade are with Ms Sheila in the Childcare room, 2-5th grades are with Ms Becky and Ms Laura, and 6th through 12th are with Ms Jane. Curriculum rotates annually from Quakerism, Hebrew and Christian Scriptures. <\/li><li>The <strong>2nd Sunday<\/strong> is Art for Social Change led by artist and teacher Jodi Rice and Tony May. This changes monthly so check the website for details. Past projects have included the kids making stamp art cards that they sell after meeting in raise money for Malala’s campaign. <a href=\"http:\/\/www.malala.org\/\" target=\"_blank\">http:\/\/www.malala.org\/<\/a>, fun with bubbles, note cards or button name tags for CPMM members, and ceramics. <\/li><li>The <strong>3rd Sunday<\/strong> is a Service Project. This can be anything from writing letters to the sick or imprisoned, to raking the meeting’s patio, to decorating cookies for the holiday dinner. <\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Parking & Transit",
+            "icon": "none",
+            "row_content": "<h2>Map<\/h2><p><a href=\"https:\/\/maps.google.com\/maps?ll=39.955823,-75.16511&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=1515%20Cherry%20St%20Philadelphia%2C%20PA%2019102\" target=\"_blank\">Click here<\/a> for a map of our location.<\/p><h2>Parking<\/h2><h3>Instructions and a parking sign<\/h3><ul><li><a href=\"https:\/\/www.quakercloud.org\/cloud\/central-philadelphia-monthly-meeting\/resources\/parking-placard-and-map\" target=\"_blank\">Download a sign<\/a> to put on your dashboard with a map and instructions about where you can park on the back.<\/li><li>You can also pick up a dashboard sign at the greeter's table at the entrance and on the literature rack in the main hallway.<\/li><\/ul><h3>Where to park<\/h3><ul><li>North side of Cherry Street between 15th and 16th Streets.<\/li><li>South side of Race Street between 15th and 16th Streets.<\/li><li>West side of 15th Street between Race & Cherry Streets.<\/li><li><a href=\"https:\/\/www.yelp.com\/biz_redir?url=http%3A%2F%2Fwww.philapark.org%2Fgateway-parking-garage%2F&website_link_type=website&src_bizid=1v7bKStGaE7Q9pYffjAwTw&cachebuster=1524411804&s=559d7309fc6ad4ea1bca2f875535ba0cb4af6d6a610424da163b985da4ce2f0a\" target=\"_blank\" title=\"Philadelphia Gateway Parking facility\">Philadelphia Gateway Parking Facility<\/a>: 1540 Spring St., 19102 (<a href=\"https:\/\/goo.gl\/maps\/1xtL2qp9suL2\" target=\"_blank\" title=\"Map to parking garage\">click here for map<\/a>);<\/li><\/ul><h2>Mass Transit<\/h2><h3>Regional Rail<\/h3><p>Most SEPTA regional rail lines stop at Suburban Station, which is quite close to the meetinghouse at 16th Street and JFK Boulevard. <\/p><h3>Local Transit<\/h3><p>Local transit lines that stop at 15th Street\/City Hall include the Market-Frankfurt Line, Broad Street Line, Trolley Routes 10, 11, 13, 34, and 36.  Bus Routes that stop within a couple of blocks include the 2, 4, 16, 17, 27, 31, 32, 33, 38, 44, 48, 62, 124, and 125. <\/p><h3>From Suburban Station to the meetinghouse<\/h3><p>To get to the meetinghouse, exit the station from the main entrance on 16th Street and walk left (north) two blocks to Cherry Street. Turn right (east) on Cherry Street and walk one block to 15th Street. Our entrance is on your left at the corner of 15th & Cherry.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4",
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "blog": "articles",
+        "post_limit": 2,
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b1d3dc25-1886-4385-aff2-4b5945295b9b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Social Concerns",
+            "heading_size": "h2"
+          }
+        },
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quakers have a long and venerable history of working to make the world a better place, and our meeting continues to seek ways to build a more peaceful, just, and sustainable society. <br\/><br\/>At the same time, we must confess that unfortunately we continue to struggle to release ourselves from the legacies of privilege, of our past.<br\/><br\/>We are actively engaged in the struggle, with the help of the Holy Spirit, to achieve healing and integrity in our community, and to continue to bring our faith values to the healing of the world.  <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "HOW WE SERVICE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1",
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1",
+        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.03.43_PM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Getting to Us",
+            "heading_size": "h2"
+          }
+        },
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Central Philadelphia <em>Quaker<\/em> Monthly Meeting are held at Friends Center 1501 Cherry Street Philadelphia, PA 19102<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "PARKING & TRANSIT",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-heading-1",
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1",
+        "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_5.35.36_PM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -122,27 +359,125 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
+    "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec": {
+      "type": "multirow",
+      "blocks": {
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.03.35_PM.png",
+            "caption": "Grounded in nonviolence – we can!",
+            "heading": "An Urgent Call to the Religious Society of Friends",
+            "text": "<p>• Initiate discussions on the impacts of voter suppression and new laws enabling partisan actors to legally throw out ballots and change the results of elections, then garnering support for nonviolent resistance against all this, and forming community-based networks of support for such actions.<br\/><br\/>• Arrange for nonviolent direct-action training in our Quaker meetings and organizations, as well as with others in our larger communities.<br\/><br\/>• Form small “affinity groups” that can prepare to carry out direct actions in support of free and fair elections and the state and local officials who support them.<br\/><br\/>• Support wider efforts to plan and organize nonviolent resistance on a state and nationwide level, as needed.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.05.19_PM.png",
+            "caption": "Let us act for equality & equity",
+            "heading": "Working for True Equality and Justice for All",
+            "text": "<p>• Join or support organizations led by people of color which are working for the empowerment of black, brown, indigenous and Asian people and communities.<br\/><br\/>• Speak, write, and protest in support for full equality of all people in American society, whatever their racial or sexual identity, gender, or class.<br\/><br\/>• Support legislative and economic changes that would lead to actual equity among all peoples.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.03.43_PM.png",
+            "caption": "Defending Truth",
+            "heading": "Discerning the deep truths — and then defend them.",
+            "text": "<p>• Individual Friends to search yourselves about the threats to our country, and the world, and to witness publicly to the truths that you discern are grounded in your experience of the Spirit.<br\/><br\/>• Quaker meetings and organizations to issue public statements calling out lies and the purveyors of lies, all in the context of our understanding of love, equality, and justice for all.<\/p>",
+            "button_label": "LINK TO PROGRAMS",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1",
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2",
+        "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3"
+      ],
       "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "36c87602-a3c6-4ec0-8e5f-4324a318ef86": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-heading-1",
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1",
+        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.12.29_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn": {
@@ -151,28 +486,28 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Who We Are",
+            "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
+            "link_label": "ABOUT US",
+            "link": "\/pages\/who-we-are"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Faith & Practice",
+            "text": "<p><a href=\"https:\/\/www.pym.org\/faith-and-practice\/\"><em>Faith and Practice<\/em><\/a> is revised every generation or so and presents our latest agreements on the Quaker way, outlining our history, experience and beliefs, and organization and procedures.<\/p>",
+            "link_label": "LEARN MORE",
+            "link": "https:\/\/www.pym.org\/faith-and-practice\/"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Quakers Spirituality",
+            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit — in that each of us can commune with God directly.<\/p>",
+            "link_label": "LEARN MORE",
+            "link": "shopify:\/\/pages\/about"
           }
         }
       },
@@ -191,20 +526,110 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "d4734510-a395-477c-a52a-e7982b7bf8f7": {
+      "type": "featured-product",
+      "blocks": {
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-price-1": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-text-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-title-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-price-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-variant_picker-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-quantity_selector-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1",
+        "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1"
+      ],
+      "settings": {
+        "product": "donate-to-central-philadelphia-meeting-donation-package",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4c3cfd30-718b-4290-9634-f66ecbbc8cbd": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d6116.7162626199515!2d-75.165791!3d39.955745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c7ae1345c9a1%3A0x4734a938c59100a7!2s1501%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1698959712716!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
-    "featured_collection",
+    "35b70d09-aa89-4d8a-9234-51848d1f7230",
+    "8d579337-0713-454c-a420-91cd5b1761ad",
+    "8d4c7336-7021-490b-815e-6ebffc0a7f92",
+    "9c0b6be9-6379-4691-895c-f61ef7b4054d",
+    "b1d3dc25-1886-4385-aff2-4b5945295b9b",
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
     "collage",
-    "video",
-    "multicolumn"
+    "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
+    "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
+    "multicolumn",
+    "d4734510-a395-477c-a52a-e7982b7bf8f7",
+    "4c3cfd30-718b-4290-9634-f66ecbbc8cbd"
   ]
 }
