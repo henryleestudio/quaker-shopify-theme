@@ -257,7 +257,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "LEARN MORE",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -269,6 +269,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/color-8.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -315,7 +316,7 @@
         "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.03.43_PM.png",
+        "image": "shopify:\/\/shop_images\/color-5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
