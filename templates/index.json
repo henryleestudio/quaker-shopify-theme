@@ -228,7 +228,7 @@
           "settings": {
             "heading": "Memberships",
             "icon": "none",
-            "row_content": "<p>You can attend all meeting activities without becoming a member of the meeting. Once you’ve come to know us better and if you find the Quaker way nourishes your own spiritual life, we invite you to consider joining the meeting formally.<br\/><br\/>Click here to go to our Membership page to learn more about what membership in the meeting means to us, why you might consider joining our meeting, and how to apply for membership.<\/p>",
+            "row_content": "<p>You can attend all meeting activities without becoming a member of the meeting. Once you’ve come to know us better and if you find the Quaker way nourishes your own spiritual life, we invite you to consider joining the meeting formally.<br\/><br\/><a href=\"\/pages\/memberships\" title=\"Memberships\">Click here to go to our Membership page<\/a> to learn more about what membership in the meeting means to us, why you might consider joining our meeting, and how to apply for membership.<\/p>",
             "page": ""
           }
         }
