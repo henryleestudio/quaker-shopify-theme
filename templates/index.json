@@ -641,6 +641,7 @@
         "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1",
         "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_5.35.36_PM.png",
         "height": "adapt",
