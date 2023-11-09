@@ -162,6 +162,9 @@
     },
     "1ae16060-00de-43df-88fc-077b6474aa3c": {
       "type": "video",
+      "custom_css": [
+        ".card__inner {background: none !important; border: 1px solid bisque;}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
