@@ -42,7 +42,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -97,6 +97,7 @@
     },
     "35b70d09-aa89-4d8a-9234-51848d1f7230": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
         "heading_size": "h2",
@@ -104,7 +105,7 @@
         "post_limit": 6,
         "columns_desktop": 3,
         "color_scheme": "",
-        "show_image": true,
+        "show_image": false,
         "show_date": true,
         "show_author": false,
         "show_view_all": true,
