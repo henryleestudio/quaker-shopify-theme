@@ -377,7 +377,8 @@
   "platform_customizations": {
     "custom_css": [
       ".card__content {background: white; color: #013b5c !important;}",
-      ".card__content .full-unstyled-link {color: #013b5c !important;}"
+      ".card__content .full-unstyled-link {color: #013b5c !important;}",
+      ".card--card, .card--standard .card__inner {border: 1px solid black !important; }"
     ]
   }
 }
