@@ -243,6 +243,9 @@
     },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
+      "custom_css": [
+        ".card__content {margin-top: -240px; z-index: 1000;}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -250,7 +253,7 @@
         "post_limit": 2,
         "columns_desktop": 2,
         "color_scheme": "",
-        "show_image": false,
+        "show_image": true,
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
