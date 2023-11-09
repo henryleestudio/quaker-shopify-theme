@@ -2,6 +2,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "402cd772-0dc6-479c-8fa0-517f4ca7b465": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"image-with-text__text-item grid__item\">\n  <div\n    id=\"ImageWithText--template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa\"\n    class=\"image-with-text__content image-with-text__content--top image-with-text__content--desktop-left image-with-text__content--mobile-left image-with-text__content--adapt content-container background-transparent\"\n  >\n    <h2 class=\"image-with-text__heading inline-richtext h2\">Getting to Us<\/h2>\n    <div class=\"image-with-text__text rte body\">\n      <p>\n        The Central Philadelphia Quaker Meeting is held at Friends Center,\n        located at 1501 Cherry Street, Philadelphia, PA 19102.\n      <\/p>\n      <p><strong>Phone:<\/strong> (215) 241-7260<\/p>\n      <p>\n        <strong>Email:<\/strong>\n        <a href=\"mailto:office@cpmm.org\">office@cpmm.org<\/a>\n      <\/p>\n    <\/div>\n    <a href=\"\/pages\/parking-transit\" class=\"button button--primary\">\n      PARKING &amp; TRANSIT\n    <\/a>\n  <\/div>\n<\/div>\n\n<iframe\n  src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d12233.418572713681!2d-75.16511!3d39.955823!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c62d94946681%3A0x80b25c75a771d645!2s1515%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1699560934556!5m2!1sen!2sus\"\n  width=\"600\"\n  height=\"450\"\n  style=\"border: 0\"\n  allowfullscreen=\"\"\n  loading=\"lazy\"\n  referrerpolicy=\"no-referrer-when-downgrade\"\n><\/iframe>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -59,6 +68,7 @@
     }
   },
   "order": [
+    "402cd772-0dc6-479c-8fa0-517f4ca7b465",
     "footer"
   ]
 }
