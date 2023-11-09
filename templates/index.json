@@ -119,7 +119,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to our meeting for worship",
+            "heading": "Welcome To Our Meeting For Worship",
             "heading_size": "h2"
           }
         },
@@ -145,7 +145,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/clouds-2.jpg",
+        "image": "shopify:\/\/shop_images\/CentralPhiladelphiaMeeting-VimeoBanner.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
