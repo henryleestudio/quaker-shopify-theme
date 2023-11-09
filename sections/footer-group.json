@@ -8,17 +8,8 @@
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Getting to Us",
+            "heading": "Logo",
             "subtext": "<p>The Central Philadelphia Quaker Meeting is held at Friends Center, located at 1501 Cherry Street, Philadelphia, PA 19102.<\/p><p><strong>Phone:<\/strong> (215) 241-7260<\/p><p><strong>Email:<\/strong> <a href=\"mailto:office@cpmm.org\">office@cpmm.org<\/a><\/p>"
-          }
-        },
-        "b6487d53-f349-480f-97d2-3107dd8a232e": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_5.35.36_PM.png",
-            "image_width": 550,
-            "alignment": "center"
           }
         },
         "687d9a6d-3c1e-4772-b821-c5e919e4b5ce": {
@@ -38,7 +29,6 @@
       },
       "block_order": [
         "footer-2",
-        "b6487d53-f349-480f-97d2-3107dd8a232e",
         "687d9a6d-3c1e-4772-b821-c5e919e4b5ce",
         "footer-0"
       ],
