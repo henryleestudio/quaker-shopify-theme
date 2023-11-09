@@ -263,7 +263,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/clouds-invert-2.png",
-            "caption": "",
+            "caption": "About Us",
             "heading": "Who We Are",
             "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
             "button_label": "LEARN MORE",
@@ -274,9 +274,9 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/clouds-2.jpg",
-            "caption": "",
-            "heading": "Faith & Practice",
-            "text": "<p><a href=\"https:\/\/www.pym.org\/faith-and-practice\/\"><em>Faith and Practice<\/em><\/a> is revised every generation or so and presents our latest agreements on the Quaker way, outlining our history, experience and beliefs, and organization and procedures.<\/p>",
+            "caption": "Grounded in the silence",
+            "heading": "How We Worship",
+            "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. We reflect on the silence, ask discerning questions, and usually speak once. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves. <\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/faith-and-practice"
           }
@@ -285,7 +285,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/clouds-2.jpg",
-            "caption": "About Us",
+            "caption": "",
             "heading": "Quakers Spirituality",
             "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit — in that each of us can commune with God directly.<\/p>",
             "button_label": "LEARN MORE",
