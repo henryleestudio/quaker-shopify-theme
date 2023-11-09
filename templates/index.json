@@ -183,7 +183,7 @@
           "settings": {
             "heading": "Who We Are",
             "icon": "none",
-            "row_content": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
+            "row_content": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <\/p>",
             "page": ""
           }
         },
@@ -265,7 +265,7 @@
             "image": "shopify:\/\/shop_images\/clouds-invert-2.png",
             "caption": "About Us",
             "heading": "Who We Are",
-            "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
+            "text": "<p>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/who-we-are"
           }
@@ -287,7 +287,7 @@
             "image": "shopify:\/\/shop_images\/clouds-2.jpg",
             "caption": "",
             "heading": "Quakers Spirituality",
-            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit — in that each of us can commune with God directly.<\/p>",
+            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/about"
           }
