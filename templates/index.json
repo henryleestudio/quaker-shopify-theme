@@ -95,23 +95,6 @@
         "padding_bottom": 0
       }
     },
-    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
-        "heading_size": "h2",
-        "blog": "",
-        "post_limit": 6,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": false,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "8d579337-0713-454c-a420-91cd5b1761ad": {
       "type": "image-with-text",
       "blocks": {
@@ -257,100 +240,6 @@
         "padding_bottom": 36
       }
     },
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "What if I have babies or toddlers?",
-            "heading_size": "h2"
-          }
-        },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Every Sunday, children meet at 11AM in Room 136 in the Cherry Street room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. A paid caregiver is joined by one or more adult members of the Meeting, for worship the way young ones do best — playing.<br\/><br\/>Also Every third Sunday, <strong>First Day School<\/strong> is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/color-8.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b1d3dc25-1886-4385-aff2-4b5945295b9b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Social Concerns",
-            "heading_size": "h2"
-          }
-        },
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Quakers have a long and venerable history of working to make the world a better place, and our meeting continues to seek ways to build a more peaceful, just, and sustainable society. <br\/><br\/>At the same time, we must confess that unfortunately we continue to struggle to release ourselves from the legacies of privilege, of our past.<br\/><br\/>We are actively engaged in the struggle, with the help of the Holy Spirit, to achieve healing and integrity in our community, and to continue to bring our faith values to the healing of the world.  <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "HOW WE SERVICE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-heading-1",
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-text-1",
-        "template--21535825756470__b1d3dc25-1886-4385-aff2-4b5945295b9b-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/color-5.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa": {
       "type": "image-with-text",
       "blocks": {
@@ -387,6 +276,70 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
+        "heading_size": "h2",
+        "blog": "",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": false,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What if I have babies or toddlers?",
+            "heading_size": "h2"
+          }
+        },
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every Sunday, children meet at 11AM in Room 136 in the Cherry Street room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. A paid caregiver is joined by one or more adult members of the Meeting, for worship the way young ones do best — playing.<br\/><br\/>Also Every third Sunday, <strong>First Day School<\/strong> is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1",
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/color-8.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -445,9 +398,9 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_6.03.35_PM.png",
-            "caption": "Grounded in nonviolence – we can!",
-            "heading": "An Urgent Call to the Religious Society of Friends",
-            "text": "<p>• Initiate discussions on the impacts of voter suppression and new laws enabling partisan actors to legally throw out ballots and change the results of elections, then garnering support for nonviolent resistance against all this, and forming community-based networks of support for such actions.<br\/><br\/>• Arrange for nonviolent direct-action training in our Quaker meetings and organizations, as well as with others in our larger communities.<br\/><br\/>• Form small “affinity groups” that can prepare to carry out direct actions in support of free and fair elections and the state and local officials who support them.<br\/><br\/>• Support wider efforts to plan and organize nonviolent resistance on a state and nationwide level, as needed.<\/p>",
+            "caption": "Grounded in nonviolence — we can make a difference",
+            "heading": "Social Concerns",
+            "text": "<p>Quakers have a long and venerable history of working to make the world a better place, and our meeting continues to seek ways to build a more peaceful, just, and sustainable society. <br\/><br\/>At the same time, we must confess that unfortunately we continue to struggle to release ourselves from the legacies of privilege, of our past.<br\/><br\/>We are actively engaged in the struggle, with the help of the Holy Spirit, to achieve healing and integrity in our community, and to continue to bring our faith values to the healing of the world.  <\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -686,13 +639,12 @@
   "order": [
     "image_banner",
     "rich_text",
-    "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
-    "b1d3dc25-1886-4385-aff2-4b5945295b9b",
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
+    "35b70d09-aa89-4d8a-9234-51848d1f7230",
+    "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "collage",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
