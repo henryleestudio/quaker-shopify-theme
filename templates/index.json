@@ -252,7 +252,7 @@
         "blog": "articles",
         "post_limit": 2,
         "columns_desktop": 2,
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "show_image": true,
         "show_date": false,
         "show_author": false,
