@@ -108,7 +108,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
@@ -135,10 +135,10 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
+          "text": "#013b5c",
+          "button": "#013b5c",
           "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
+          "secondary_button_label": "#013b5c",
           "shadow": "#121212"
         }
       },
@@ -166,8 +166,8 @@
       },
       "accent-1": {
         "settings": {
-          "background": "#121212",
-          "background_gradient": "",
+          "background": "#1773b0",
+          "background_gradient": "radial-gradient(rgba(255, 154, 98, 1), rgba(255, 204, 75, 1) 100%)",
           "text": "#ffffff",
           "button": "#ffffff",
           "button_label": "#121212",
@@ -373,5 +373,12 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".card__content {background: white; color: #013b5c !important;}",
+      ".card__content .full-unstyled-link {color: #013b5c !important;}",
+      ".card--card,.card--standard .card__inner {border: 1px solid #013b5c !important;}"
+    ]
   }
 }
