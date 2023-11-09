@@ -95,6 +95,23 @@
         "padding_bottom": 0
       }
     },
+    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
+        "heading_size": "h2",
+        "blog": "",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": false,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d579337-0713-454c-a420-91cd5b1761ad": {
       "type": "image-with-text",
       "blocks": {
@@ -126,6 +143,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1",
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community-cropped-2.png",
         "height": "adapt",
@@ -287,23 +305,6 @@
         "padding_bottom": 36
       }
     },
-    "35b70d09-aa89-4d8a-9234-51848d1f7230": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Our Programs \/ <a href=\"https:\/\/www.muralarts.org\/programs\">VIEW ALL<\/a>",
-        "heading_size": "h2",
-        "blog": "",
-        "post_limit": 6,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": false,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
       "type": "image-with-text",
       "blocks": {
@@ -335,6 +336,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/color-8.png",
         "height": "adapt",
@@ -639,11 +641,11 @@
   "order": [
     "image_banner",
     "rich_text",
+    "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
-    "35b70d09-aa89-4d8a-9234-51848d1f7230",
     "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "collage",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
