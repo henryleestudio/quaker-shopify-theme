@@ -100,7 +100,7 @@
       "settings": {
         "heading": "Get to Know Us!",
         "heading_size": "h2",
-        "blog": "",
+        "blog": "news",
         "post_limit": 6,
         "columns_desktop": 3,
         "color_scheme": "",
