@@ -143,6 +143,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1",
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community-cropped-2.png",
         "height": "adapt",
@@ -161,7 +162,6 @@
     },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
-      "disabled": true,
       "custom_css": [
 
       ],
