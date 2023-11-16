@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Central Philadelphia Q<em>uaker<\/em> Meeting",
-            "heading_size": "h0"
+            "heading": "Central Philadelphia <> Q<em>uaker<\/em> Meeting",
+            "heading_size": "h1"
           }
         },
         "text": {
@@ -216,6 +216,24 @@
             "row_content": "<p>You can attend all meeting activities without becoming a member of the meeting. Once you’ve come to know us better and if you find the Quaker way nourishes your own spiritual life, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
             "page": ""
           }
+        },
+        "16d96cad-ebbf-4498-ae53-ad3fa2b896ff": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "5328bdf0-3d42-4cd3-ba00-61981ac1fe29": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -224,7 +242,9 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3",
-        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17"
+        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17",
+        "16d96cad-ebbf-4498-ae53-ad3fa2b896ff",
+        "5328bdf0-3d42-4cd3-ba00-61981ac1fe29"
       ],
       "settings": {
         "caption": "",
@@ -584,7 +604,6 @@
     },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
-      "disabled": true,
       "custom_css": [
         ".card__content {margin-top: -240px; z-index: 1000;}"
       ],
