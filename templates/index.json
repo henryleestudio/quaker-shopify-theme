@@ -95,6 +95,23 @@
         "padding_bottom": 0
       }
     },
+    "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e": {
+      "type": "custom-blog-cards",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "blog": "news",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": false,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d579337-0713-454c-a420-91cd5b1761ad": {
       "type": "image-with-text",
       "blocks": {
@@ -126,7 +143,6 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1",
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-button-1"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community-cropped-2.png",
         "height": "adapt",
@@ -143,25 +159,9 @@
         "padding_bottom": 36
       }
     },
-    "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e": {
-      "type": "custom-blog-cards",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "blog": "news",
-        "post_limit": 6,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": false,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -257,6 +257,53 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What if I have babies or toddlers?",
+            "heading_size": "h2"
+          }
+        },
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every Sunday, children meet at 11AM in Room 136 in the Cherry Street room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. A paid caregiver is joined by one or more adult members of the Meeting, for worship the way young ones do best — playing.<br\/><br\/>Also Every third Sunday, <strong>First Day School<\/strong> is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1",
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
+        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/color-8.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -514,54 +561,6 @@
         "padding_bottom": 36
       }
     },
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "What if I have babies or toddlers?",
-            "heading_size": "h2"
-          }
-        },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Every Sunday, children meet at 11AM in Room 136 in the Cherry Street room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. A paid caregiver is joined by one or more adult members of the Meeting, for worship the way young ones do best — playing.<br\/><br\/>Also Every third Sunday, <strong>First Day School<\/strong> is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/color-8.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -664,16 +663,16 @@
   "order": [
     "image_banner",
     "rich_text",
-    "8d579337-0713-454c-a420-91cd5b1761ad",
     "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e",
+    "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
+    "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
     "multicolumn",
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "collage",
     "4c3cfd30-718b-4290-9634-f66ecbbc8cbd",
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa"
