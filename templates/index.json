@@ -168,7 +168,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "blog": "articles",
+        "blog": "feature",
         "post_limit": 2,
         "columns_desktop": 2,
         "color_scheme": "background-1",
