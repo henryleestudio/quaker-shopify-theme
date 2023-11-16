@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome To Our Meeting For Worship",
+            "heading": "The Light Within",
             "heading_size": "h2"
           }
         },
@@ -146,7 +146,7 @@
     "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e": {
       "type": "custom-blog-cards",
       "settings": {
-        "heading": "Social Concerns",
+        "heading": "Our Community",
         "heading_size": "h2",
         "blog": "news",
         "post_limit": 6,
