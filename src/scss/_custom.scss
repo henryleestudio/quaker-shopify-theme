@@ -2,17 +2,19 @@
 
 #custom-blog-cards {
   .card__content {
+    color: $darkBlue;
     background: white;
-    color: #013b5c !important;
     border-radius: 50px;
   }
 
   .card--standard .card__inner {
-      border: 1px solid #013b5c !important;
+    color: $darkBlue;
+      border: 1px solid $darkBlue;
       border-radius: 50px;
   }
 
   .article-card__excerpt {
+    color: $darkBlue;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     display: -webkit-box;
@@ -21,6 +23,7 @@
   }
 
   .card__heading {
+    color: $darkBlue;
     margin-bottom: 0.6rem;
     min-height: 95px;
   }
@@ -33,7 +36,7 @@
 }
 
 .donation-icon {
-  fill: #2a5d7c;
+  fill: $darkBlue;
   width: 41px;
   margin: 0px -35px 0 0;
 }

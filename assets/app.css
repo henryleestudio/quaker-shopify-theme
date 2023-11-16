@@ -1,14 +1,16 @@
 @import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap);
 #custom-blog-cards .card__content {
+  color: #013b5c;
   background: white;
-  color: #013b5c !important;
   border-radius: 50px;
 }
 #custom-blog-cards .card--standard .card__inner {
-  border: 1px solid #013b5c !important;
+  color: #013b5c;
+  border: 1px solid #013b5c;
   border-radius: 50px;
 }
 #custom-blog-cards .article-card__excerpt {
+  color: #013b5c;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   display: -webkit-box;
@@ -16,6 +18,7 @@
   min-height: 87px;
 }
 #custom-blog-cards .card__heading {
+  color: #013b5c;
   margin-bottom: 0.6rem;
   min-height: 95px;
 }
@@ -25,7 +28,7 @@
 }
 
 .donation-icon {
-  fill: #2a5d7c;
+  fill: #013b5c;
   width: 41px;
   margin: 0px -35px 0 0;
 }
