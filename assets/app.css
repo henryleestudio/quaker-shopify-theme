@@ -1,4 +1,32 @@
 @import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap);
+.card__content {
+  background: white;
+  color: #013b5c !important;
+  border-radius: 50px;
+}
+
+.card--standard .card__inner {
+  border: 1px solid #013b5c !important;
+  border-radius: 50px;
+}
+
+.article-card__excerpt {
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  min-height: 87px;
+}
+
+.card__heading {
+  margin-bottom: 0.6rem;
+  min-height: 95px;
+}
+
+.image-with-text__media {
+  opacity: 0.4;
+}
+
 /* component-button */
 /* Button - default */
 .button--secondary,
