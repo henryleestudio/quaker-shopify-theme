@@ -146,7 +146,7 @@
     "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e": {
       "type": "custom-blog-cards",
       "settings": {
-        "heading": "Our Community",
+        "heading": "",
         "heading_size": "h2",
         "blog": "news",
         "post_limit": 6,
