@@ -292,6 +292,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/color-8.png",
         "height": "adapt",
