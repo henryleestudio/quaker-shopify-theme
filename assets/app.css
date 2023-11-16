@@ -19,6 +19,7 @@
 }
 #custom-blog-cards .card__heading {
   color: #013b5c;
+  font-family: "Libre Baskerville", serif !important;
   margin-bottom: 0.6rem;
   min-height: 95px;
 }
@@ -435,10 +436,10 @@ details[open] > .share-button__fallback {
   box-sizing: border-box;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, a {
   font-family: "Libre Baskerville", serif, Tiempos, Serif !important;
 }
 
-h4, h5, p, span, a, li {
+p, span, li {
   font-family: AlrightSansLT, sans-serif !important;
 }

@@ -9,8 +9,8 @@
 
   .card--standard .card__inner {
     color: $darkBlue;
-      border: 1px solid $darkBlue;
-      border-radius: 50px;
+    border: 1px solid $darkBlue;
+    border-radius: 50px;
   }
 
   .article-card__excerpt {
@@ -24,6 +24,7 @@
 
   .card__heading {
     color: $darkBlue;
+    font-family: $baskerville !important;
     margin-bottom: 0.6rem;
     min-height: 95px;
   }
