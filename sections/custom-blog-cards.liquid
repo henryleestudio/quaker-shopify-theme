@@ -19,13 +19,25 @@
   .card__content {
     background: white;
     color: #013b5c !important;
-    border-radius: 87px;
+    border-radius: 50px;
   }
   
   .card--standard .card__inner {
       border: 1px solid #013b5c !important;
-      border-radius: 87px;
+      border-radius: 50px;
   }
+
+  .article-card__excerpt {
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+  }
+
+.card__heading {
+    margin-bottom: 0.6rem;
+    min-height: 95px;
+}
 {%- endstyle -%}
 
 {%- liquid
@@ -36,7 +48,7 @@
   endif
 -%}
 <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
-  <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
+  <div class="page-width-desktop blog-section-width isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
     {%- unless section.settings.heading == blank -%}
       <div class="title-wrapper-with-link{% if posts_displayed > 2 %} title-wrapper--self-padded-tablet-down{% else %} title-wrapper--self-padded-mobile{% endif %} title-wrapper--no-top-margin">
         <h2
