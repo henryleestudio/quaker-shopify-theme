@@ -229,7 +229,7 @@
         "6752e055-65e3-4dd7-bfc9-f6b616a5ea17": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Memberships",
+            "heading": "Membership",
             "icon": "none",
             "row_content": "<p>You can attend all meeting activities without becoming a member of the meeting. Once you’ve come to know us better and if you find the Quaker way nourishes your own spiritual life, we invite you to consider joining the meeting formally.<br\/><br\/><a href=\"\/pages\/memberships\" title=\"Memberships\">Click here to go to our Membership page<\/a> to learn more about what membership in the meeting means to us, why you might consider joining our meeting, and how to apply for membership.<\/p>",
             "page": ""
@@ -279,7 +279,7 @@
             "image": "shopify:\/\/shop_images\/clouds-2.jpg",
             "caption": "led by the Spirit — Grounded in the silence",
             "heading": "How We Worship",
-            "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. We reflect on the silence, ask discerning questions, and usually speak once. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
+            "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/about"
           }
