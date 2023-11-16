@@ -267,14 +267,14 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "What if I have babies or toddlers?",
+            "heading": "Venue rentals",
             "heading_size": "h2"
           }
         },
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Every Sunday, children meet at 11AM in Room 136 in the Cherry Street room 136 in the Cherry Street room to welcome and register newcomers and play a fun game. A paid caregiver is joined by one or more adult members of the Meeting, for worship the way young ones do best — playing.<br\/><br\/>Also Every third Sunday, <strong>First Day School<\/strong> is children's religious education, or what other churches call \"Sunday School.\" Central Philadelphia Quakers provide enjoyable, age-appropriate learning and activities for children.<\/p>",
+            "text": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable. <br\/><br\/>To inquire about availability and rental details, please contact us. <br\/><br\/>We look forward to helping you create the perfect setting for your next event.<\/p>",
             "text_style": "body"
           }
         },
@@ -304,7 +304,7 @@
         "color_scheme": "",
         "image_behavior": "ambient",
         "mobile_content_alignment": "left",
-        "padding_top": 64,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
