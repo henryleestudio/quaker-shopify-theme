@@ -285,7 +285,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/clouds-invert-2.png",
+            "image": "shopify:\/\/shop_images\/color-8.png",
             "caption": "About Us",
             "heading": "Who We Are",
             "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102<\/p>",
@@ -296,7 +296,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/clouds-2.jpg",
+            "image": "shopify:\/\/shop_images\/color-7.png",
             "caption": "led by the Spirit — Grounded in the silence",
             "heading": "How We Worship",
             "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
@@ -307,7 +307,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/clouds-mix-2.png",
+            "image": "shopify:\/\/shop_images\/color-5.png",
             "caption": "The Quakers Way",
             "heading": "Quakers Spirituality",
             "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
@@ -395,7 +395,7 @@
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1"
       ],
       "settings": {
-        "product": "donate-to-central-philadelphia-meeting-donation-package",
+        "product": "",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
