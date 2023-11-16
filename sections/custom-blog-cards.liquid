@@ -15,6 +15,17 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+  .card__content {
+    background: white;
+    color: #013b5c !important;
+    border-radius: 87px;
+  }
+  
+  .card--standard .card__inner {
+      border: 1px solid #013b5c !important;
+      border-radius: 87px;
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -298,7 +309,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.featured-blog.presets.name"
+      "name": "Custom blog cards"
     }
   ]
 }
