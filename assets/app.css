@@ -34,6 +34,11 @@
   margin: 0px -35px 0 0;
 }
 
+#featured-blog {
+  margin-top: -200px;
+  z-index: 10;
+}
+
 /* component-button */
 /* Button - default */
 .button--secondary,
