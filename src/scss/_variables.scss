@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
-
+@font-face {
+  font-family: "Tiempos";
+  src: url("../fonts/Tiempos/TiemposText/TiemposText-Regular.otf");
+}
+@font-face {
+  font-family: "AlrightSansLT";
+  src: url("../fonts/AlrightSans/AlrightSans-Regular.otf");
+}
 // fonts
 $baskerville: 'Libre Baskerville', serif;
+$alrightSans: 'AlrightSansLT', sans-serif;
+
+
 
 // brand colors
 $tan: #f7d5a4;

@@ -75,7 +75,8 @@
                 {% endif %}
               >
                 {%- if block.settings.heading != blank -%}
-                  <h2 class="footer-block__heading inline-richtext">{{- block.settings.heading -}}</h2>
+                  {{ 'quaker-logo.png' | asset_url | img_tag: 'Quaker Logo', 'footer-logo' }}
+                  {% comment %} <h2 class="footer-block__heading inline-richtext">{{- block.settings.heading -}}</h2> {% endcomment %}
                 {%- endif -%}
 
                 {%- case block.type -%}
