@@ -25,7 +25,7 @@
   endif
 -%}
 <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
-  <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
+  <div id="custom-blog-cards" class="page-width-desktop blog-section-width isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
     {%- unless section.settings.heading == blank -%}
       <div class="title-wrapper-with-link{% if posts_displayed > 2 %} title-wrapper--self-padded-tablet-down{% else %} title-wrapper--self-padded-mobile{% endif %} title-wrapper--no-top-margin">
         <h2
@@ -107,7 +107,7 @@
                         </div>
                       </div>
                     {%- endif -%}
-                    <div id="featured-blog" class="card__content">
+                    <div class="card__content">
                       <div class="card__information">
                         <h3 class="card__heading h2">
                           {{ 'sections.featured_blog.onboarding_title' | t }}
@@ -118,7 +118,7 @@
                       </div> 
                     </div>
                   </div>
-                  <div id="featured-blog" class="card__content">
+                  <div class="card__content">
                     <div class="card__information">
                       <h3 class="card__heading h2">
                         {{ 'sections.featured_blog.onboarding_title' | t }}
@@ -298,7 +298,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.featured-blog.presets.name"
+      "name": "Custom blog cards"
     }
   ]
 }

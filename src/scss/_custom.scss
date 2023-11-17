@@ -1,0 +1,50 @@
+// Custom blog cards - section
+
+#custom-blog-cards {
+  .card__content {
+    color: $darkBlue;
+    background: white;
+    border-radius: 50px;
+  }
+
+  .card--standard .card__inner {
+    color: $darkBlue;
+    border: 1px solid $darkBlue;
+    border-radius: 50px;
+  }
+
+  .article-card__excerpt {
+    color: $darkBlue;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    min-height: 87px;
+  }
+
+  .card__heading {
+    color: $darkBlue;
+    font-family: $baskerville !important;
+    margin-bottom: 0.6rem;
+    min-height: 95px;
+  }
+}
+
+// Multirow - section
+
+.image-with-text__media {
+  opacity: 0.4;
+}
+
+.donation-icon {
+  fill: $darkBlue;
+  width: 41px;
+  margin: 0px -35px 0 0;
+}
+
+// featured blog
+
+#featured-blog {
+  margin-top: -200px;
+  z-index: 10;
+}

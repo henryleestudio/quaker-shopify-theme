@@ -1,4 +1,44 @@
 @import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap);
+#custom-blog-cards .card__content {
+  color: #013b5c;
+  background: white;
+  border-radius: 50px;
+}
+#custom-blog-cards .card--standard .card__inner {
+  color: #013b5c;
+  border: 1px solid #013b5c;
+  border-radius: 50px;
+}
+#custom-blog-cards .article-card__excerpt {
+  color: #013b5c;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  min-height: 87px;
+}
+#custom-blog-cards .card__heading {
+  color: #013b5c;
+  font-family: "Libre Baskerville", serif !important;
+  margin-bottom: 0.6rem;
+  min-height: 95px;
+}
+
+.image-with-text__media {
+  opacity: 0.4;
+}
+
+.donation-icon {
+  fill: #013b5c;
+  width: 41px;
+  margin: 0px -35px 0 0;
+}
+
+#featured-blog {
+  margin-top: -200px;
+  z-index: 10;
+}
+
 /* component-button */
 /* Button - default */
 .button--secondary,
@@ -401,10 +441,10 @@ details[open] > .share-button__fallback {
   box-sizing: border-box;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, a {
   font-family: "Libre Baskerville", serif, Tiempos, Serif !important;
 }
 
-h4, h5, p, span, a, li {
+p, span, li {
   font-family: AlrightSansLT, sans-serif !important;
 }
