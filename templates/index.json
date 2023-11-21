@@ -613,30 +613,21 @@
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
       "type": "collapsible-content",
       "blocks": {
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Venue Rentals",
-            "icon": "none",
-            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br\/><br\/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>.<\/p>",
-            "page": ""
-          }
-        },
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Burial Grounds",
-            "icon": "none",
-            "row_content": "<p>More here.. <\/p>",
-            "page": ""
-          }
-        },
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Teachings",
             "icon": "none",
             "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Venue Rentals",
+            "icon": "none",
+            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br\/><br\/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -648,13 +639,22 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Burial Grounds",
+            "icon": "none",
+            "row_content": "<p>More here.. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2",
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
-        "f9556e11-32c6-4969-b55c-59adc3175b3a"
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
+        "f9556e11-32c6-4969-b55c-59adc3175b3a",
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
       ],
       "settings": {
         "caption": "",
