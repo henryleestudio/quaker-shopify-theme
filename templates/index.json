@@ -565,12 +565,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "product": {
           "type": "product",
           "settings": {
@@ -578,7 +572,14 @@
             "second_image": false
           }
         },
-        "collection-1": {
+        "6e5817b0-e1b9-4fbc-8be8-ff0da81f8323": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection-0": {
           "type": "collection",
           "settings": {
             "collection": ""
@@ -586,9 +587,9 @@
         }
       },
       "block_order": [
-        "collection-0",
         "product",
-        "collection-1"
+        "6e5817b0-e1b9-4fbc-8be8-ff0da81f8323",
+        "collection-0"
       ],
       "settings": {
         "heading": "Multimedia collage",
