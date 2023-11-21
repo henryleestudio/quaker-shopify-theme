@@ -565,13 +565,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "donate-to-central-philadelphia-meeting-donation-package",
-            "second_image": false
-          }
-        },
         "6e5817b0-e1b9-4fbc-8be8-ff0da81f8323": {
           "type": "product",
           "settings": {
@@ -584,17 +577,24 @@
           "settings": {
             "collection": "support-us"
           }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "donate-to-central-philadelphia-meeting-donation-package",
+            "second_image": false
+          }
         }
       },
       "block_order": [
-        "product",
         "6e5817b0-e1b9-4fbc-8be8-ff0da81f8323",
-        "collection-0"
+        "collection-0",
+        "product"
       ],
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
