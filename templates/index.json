@@ -507,7 +507,7 @@
       "settings": {
         "product": "donate-to-central-philadelphia-meeting-donation-package",
         "color_scheme": "",
-        "secondary_background": true,
+        "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
