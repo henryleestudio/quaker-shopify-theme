@@ -296,6 +296,8 @@
       ],
       "settings": {
         "section-id": "home-page-video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw&t=14s",
+        "video_img_url": "http:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/cdn\/shop\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053&width=1070",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
