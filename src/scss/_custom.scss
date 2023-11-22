@@ -28,6 +28,15 @@
     margin-bottom: 0.6rem;
     min-height: 95px;
   }
+
+  // .grid {
+  //   column-gap: 30px;
+  //   row-gap: 30px;
+  // }
+
+  // .page-width-desktop {
+  //   padding: 0 !important;
+  // }
 }
 
 // Multirow - section
@@ -45,19 +54,31 @@
 // featured blog
 
 #custom-featured-blog {
+
+  margin-bottom: 90px;
+
   .card__content {
-    margin-top: -200px;
+    margin-top: -250px;
     z-index: 10;
+    padding: 0px 30px 0 15px;
   }
 
   .card__inner, .card__media {
     border: .5px solid $darkBlue;
     border-radius: 50px;
-    opacity: 0.6
+    opacity: 0.6;
+  }
+
+  .card__inner {
+    width: 95%;
   }
   
   .card__media {
     border-radius: 50px;
+  }
+
+  .page-width-desktop {
+    padding: 0;
   }
 }
 
@@ -92,6 +113,5 @@ summary .icon-caret {
 
 .footer-logo {
   width: 300px;
-  margin-left: -8px;
-  margin-bottom: 8px;
+  margin: 9px 0 18px -8px;
 }
