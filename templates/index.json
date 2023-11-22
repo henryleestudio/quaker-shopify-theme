@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/clouds-2.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "top-left",
         "show_text_box": false,
