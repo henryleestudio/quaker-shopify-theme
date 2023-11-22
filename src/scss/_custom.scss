@@ -96,6 +96,21 @@ summary .icon-caret {
   height: 0.8rem;
 }
 
+// video with text
+
+#home-page-video {
+
+}
+
+.image-with-text__video {
+  display: flex;
+  align-items: center;
+}
+
+.image-with-text__video video {
+  width: 100%;
+}
+
 // footer
 
 .footer {
