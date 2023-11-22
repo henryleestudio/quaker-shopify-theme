@@ -166,6 +166,7 @@
 
       ],
       "settings": {
+        "section_id": "custom-featured-blog",
         "heading": "",
         "heading_size": "h1",
         "blog": "feature",
@@ -676,6 +677,7 @@
     "ff18e997-b0d9-46ed-baed-86177ece2f73": {
       "type": "featured-blog",
       "settings": {
+        "section_id": "",
         "heading": "Blog posts",
         "heading_size": "h1",
         "blog": "",
