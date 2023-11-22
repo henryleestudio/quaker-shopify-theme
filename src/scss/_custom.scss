@@ -38,16 +38,42 @@
 
 .donation-icon {
   fill: $darkBlue;
-  width: 41px;
-  margin: 0px -35px 0 0;
+  width: 35px;
+  margin: -12px -28px 0 0;
 }
 
 // featured blog
 
-// #featured-blog {
-//   margin-top: -200px;
-//   z-index: 10;
-// }
+#custom-featured-blog {
+  .card__content {
+    margin-top: -200px;
+    z-index: 10;
+  }
+
+  .card__inner, .card__media {
+    border: .5px solid $darkBlue;
+    border-radius: 50px;
+    opacity: 0.6
+  }
+  
+  .card__media {
+    border-radius: 50px;
+  }
+}
+
+// accordian 
+
+.accordion:first-child {
+  border-top: 0.1rem solid rgba(var(--color-foreground), 0.28) !important;
+}
+
+.accordion {
+  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.28) !important;
+}
+
+summary .icon-caret {
+  height: 0.8rem;
+}
 
 // footer
 

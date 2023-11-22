@@ -108,6 +108,7 @@
                   >
                     {%- if section.settings.show_image == true -%}
                       <div class="article-card__image-wrapper card__media">
+                        <div class="overlay"></div>
                         <div class="article-card__image media">
                           {{ placeholder_image | placeholder_svg_tag: 'blog-placeholder-svg' }}
                         </div>
