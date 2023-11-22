@@ -262,6 +262,53 @@
         "padding_bottom": 36
       }
     },
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Quaker Way",
+            "heading_size": "h1"
+          }
+        },
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1"
+      ],
+      "settings": {
+        "section-id": "home-page-video",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
       "type": "image-with-text",
       "blocks": {
@@ -682,6 +729,7 @@
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
