@@ -275,12 +275,13 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Quakerism is an experiential faith. Each person’s journey may be different, but the shared experience deepens and enriches our lives. We believe that every person is loved by the Divine Spirit. <\/p>",
             "text_style": "body"
           }
         },
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
