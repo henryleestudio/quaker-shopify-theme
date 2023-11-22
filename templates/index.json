@@ -206,7 +206,7 @@
           "settings": {
             "heading": "Hybrid Worship",
             "icon": "none",
-            "row_content": "<p>You can also join us via Zoom. Here’s the link and login info:<\/p><p><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\">https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09<br\/><br\/><\/a>Meeting ID: 550 104 323<br\/>Passcode: cpmm<\/p>",
+            "row_content": "<p>You can also join us via Zoom. Here’s the link and login info:<br\/><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" title=\"Zoom meeting\"><br\/>Click here to join the hybrid meeting<\/a><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\"><br\/><\/a><br\/>Meeting ID: 550 104 323<br\/>Passcode: cpmm<\/p>",
             "page": ""
           }
         },
@@ -274,7 +274,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Quakerism is an experiential faith. We come together to learn how to put our testimonies of simplicity, peace, integrity, community, stewardship and equality into daily practice. Each person’s journey may be different, but the shared experience deepens and enriches our lives.<\/p><p><strong>We believe that every person is loved by the Divine Spirit. There are Friends of all ages, religious backgrounds, races, education, sexual orientations, gender identities, and classes.<\/strong><\/p>",
+            "text": "<p>Quakerism is an experiential faith. Each person’s journey may be different, but the shared experience deepens and enriches our lives. We believe that every person is loved by the Divine Spirit. There are Friends of all ages, religious backgrounds, races, education, sexual orientations, gender identities, and classes.<\/p>",
             "text_style": "body"
           }
         },
@@ -294,7 +294,7 @@
         "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/clouds-mix-2.png",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-21_at_6.57.11_PM.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -303,7 +303,7 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -311,6 +311,7 @@
     },
     "1ae16060-00de-43df-88fc-077b6474aa3c": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         ".card__inner .color-background-2 .gradient {background: none !important; border: 1px solid black;}"
       ],
@@ -356,8 +357,8 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/color-5.png",
-            "caption": "The Quakers Way",
-            "heading": "Quakers Spirituality",
+            "caption": "The Quaker Way",
+            "heading": "Quaker Spirituality",
             "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/about"
@@ -381,6 +382,67 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Teachings",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Venue Rentals",
+            "icon": "none",
+            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br\/><br\/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "f9556e11-32c6-4969-b55c-59adc3175b3a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Resources",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Burial Grounds",
+            "icon": "none",
+            "row_content": "<p>More here.. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
+        "f9556e11-32c6-4969-b55c-59adc3175b3a",
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -494,6 +556,7 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1",
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/clouds-banner-1_0e056f3a-3112-4702-8cd4-c9b9095b7b74.png",
         "image_overlay_opacity": 0,
@@ -562,56 +625,6 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4c3cfd30-718b-4290-9634-f66ecbbc8cbd": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d6116.7162626199515!2d-75.165791!3d39.955745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c7ae1345c9a1%3A0x4734a938c59100a7!2s1501%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1698959712716!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa": {
       "type": "image-with-text",
       "blocks": {
@@ -659,47 +672,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Venue Rentals",
-            "icon": "none",
-            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br\/><br\/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a>.<\/p>",
-            "page": ""
-          }
-        },
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Burial Grounds",
-            "icon": "none",
-            "row_content": "<p>More here.. <\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -712,12 +684,10 @@
     "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
+    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
     "multicolumn",
-    "collage",
-    "4c3cfd30-718b-4290-9634-f66ecbbc8cbd",
-    "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
-    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c"
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa"
   ]
 }

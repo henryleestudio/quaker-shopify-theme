@@ -75,7 +75,30 @@
                 {% endif %}
               >
                 {%- if block.settings.heading != blank -%}
-                  <h2 class="footer-block__heading inline-richtext">{{- block.settings.heading -}}</h2>
+                  <a href="{{ routes.root_url }}">{{ 'quaker-logo-light.png' | asset_url | img_tag: 'Quaker Logo', 'footer-logo' }}</a>
+                  
+                  {% comment %} <h2 class="footer-block__heading inline-richtext">{{- block.settings.heading -}}</h2> {% endcomment %}
+
+                  {% comment %} {%- if settings.logo != blank -%}
+                    <div class="header__heading-logo-wrapper">
+                      {%- assign logo_alt = settings.logo.alt | default: shop.name | escape -%}
+                      {%- assign logo_height = settings.logo_width | divided_by: settings.logo.aspect_ratio -%}
+                      {% capture sizes %}(max-width: {{ settings.logo_width | times: 2 }}px) 50vw, {{ settings.logo_width }}px{% endcapture %}
+                      {% capture widths %}{{ settings.logo_width }}, {{ settings.logo_width | times: 1.5 | round }}, {{ settings.logo_width | times: 2 }}{% endcapture %}
+                      {{ settings.logo | image_url: width: 600 | image_tag:
+                        class: 'header__heading-logo motion-reduce',
+                        widths: widths,
+                        height: logo_height,
+                        width: settings.logo_width,
+                        alt: logo_alt,
+                        sizes: sizes,
+                        preload: true
+                      }}
+                    </div>
+                  {%- else -%}
+                    <span class="h2">{{ shop.name }}</span>
+                  {%- endif -%} {% endcomment %}
+
                 {%- endif -%}
 
                 {%- case block.type -%}
@@ -92,7 +115,7 @@
                           <li>
                             <a
                               href="{{ link.url }}"
-                              class="link link--text list-menu__item list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}"
+                              class="link link--text list-menu__item footer-links list-menu__item--link{% if link.active %} list-menu__item--active{% endif %}"
                             >
                               {{ link.title }}
                             </a>

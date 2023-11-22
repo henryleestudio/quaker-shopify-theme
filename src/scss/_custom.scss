@@ -48,3 +48,23 @@
   margin-top: -200px;
   z-index: 10;
 }
+
+// footer
+
+.footer {
+  background-image: url('https://central-philadelphia-quaker-meeting.myshopify.com/cdn/shop/files/clouds-banner-1_0e056f3a-3112-4702-8cd4-c9b9095b7b74.png?v=1699542530&width=3600'), rgba(255, 0, 150, 0.3);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.footer-links {
+  font-family: $alrightSans !important;
+  font-size: 15px !important;
+  letter-spacing: 1.2px;
+  font-weight: 400;
+}
+
+.footer-logo {
+  width: 70px;
+  margin-left: -8px;
+}

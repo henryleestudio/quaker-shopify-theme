@@ -1,4 +1,12 @@
 @import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap);
+@font-face {
+  font-family: "Tiempos";
+  src: url(/fonts/TiemposText-Regular.otf?a124c41af18389024fc73298856a0db7);
+}
+@font-face {
+  font-family: "AlrightSansLT";
+  src: url(/fonts/AlrightSans-Regular.otf?59d8c8ab8a1d0dc02c798f6dafa4e514);
+}
 #custom-blog-cards .card__content {
   color: #013b5c;
   background: white;
@@ -37,6 +45,24 @@
 #featured-blog {
   margin-top: -200px;
   z-index: 10;
+}
+
+.footer {
+  background-image: url("https://central-philadelphia-quaker-meeting.myshopify.com/cdn/shop/files/clouds-banner-1_0e056f3a-3112-4702-8cd4-c9b9095b7b74.png?v=1699542530&width=3600"), rgba(255, 0, 150, 0.3);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.footer-links {
+  font-family: "AlrightSansLT", sans-serif !important;
+  font-size: 15px !important;
+  letter-spacing: 1.2px;
+  font-weight: 400;
+}
+
+.footer-logo {
+  width: 70px;
+  margin-left: -8px;
 }
 
 /* component-button */
@@ -429,14 +455,6 @@ details[open] > .share-button__fallback {
   display: none;
 }
 
-@font-face {
-  font-family: "Tiempos";
-  src: url(/fonts/TiemposText-Regular.otf?a124c41af18389024fc73298856a0db7);
-}
-@font-face {
-  font-family: "AlrightSansLT";
-  src: url(/fonts/AlrightSans-Regular.otf?59d8c8ab8a1d0dc02c798f6dafa4e514);
-}
 * {
   box-sizing: border-box;
 }
@@ -446,5 +464,5 @@ h1, h2, h3, h4, h5, a {
 }
 
 p, span, li {
-  font-family: AlrightSansLT, sans-serif !important;
+  font-family: "AlrightSansLT", sans-serif !important;
 }
