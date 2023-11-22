@@ -29,7 +29,8 @@
     assign posts_displayed = section.settings.post_limit
   endif
 -%}
-<div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
+<div 
+{% if section.settings.section_id != blank %} id="{{ section.settings.section_id }}" {% endif %} class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
   <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
     {%- unless section.settings.heading == blank -%}
       <div class="title-wrapper-with-link{% if posts_displayed > 2 %} title-wrapper--self-padded-tablet-down{% else %} title-wrapper--self-padded-mobile{% endif %} title-wrapper--no-top-margin">
@@ -115,7 +116,7 @@
                     <div id="featured-blog" class="card__content">
                       <div class="card__information">
                         <h3 class="card__heading h2">
-                          test
+                          {{ 'sections.featured_blog.onboarding_title' | t }}
                         </h3>
                         <p class="article-card__excerpt rte-width">
                           {{ 'sections.featured_blog.onboarding_content' | t }}
@@ -126,7 +127,7 @@
                   <div id="featured-blog" class="card__content">
                     <div class="card__information">
                       <h3 class="card__heading h2">
-                        test
+                        {{ 'sections.featured_blog.onboarding_title' | t }}
                       </h3>
                       <p class="article-card__excerpt rte-width">
                         {{ 'sections.featured_blog.onboarding_content' | t }}
@@ -195,6 +196,11 @@
     "groups": ["header", "footer"]
   },
   "settings": [
+    {
+      "type" : "text",
+      "id" : "section_id",
+      "label" : "Section ID"
+    },
     {
       "type": "inline_richtext",
       "id": "heading",
