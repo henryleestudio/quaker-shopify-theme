@@ -228,15 +228,6 @@
             "row_content": "",
             "page": "parking-transit"
           }
-        },
-        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Membership",
-            "icon": "none",
-            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -244,8 +235,7 @@
         "bc24e3af-5cba-4e8d-b3fe-902d390663ca",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3",
-        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17"
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
       ],
       "settings": {
         "caption": "",
@@ -410,6 +400,15 @@
             "page": ""
           }
         },
+        "f89f625d-6147-43a7-af95-2ded06c63685": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Membership",
+            "icon": "none",
+            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
+            "page": ""
+          }
+        },
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
@@ -423,6 +422,7 @@
       "block_order": [
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
+        "f89f625d-6147-43a7-af95-2ded06c63685",
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
       ],
       "settings": {
