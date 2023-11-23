@@ -35,8 +35,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/clouds-2.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify:\/\/shop_images\/clouds-banner-5.png",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "top-left",
         "show_text_box": false,
@@ -166,6 +166,7 @@
 
       ],
       "settings": {
+        "section_id": "custom-featured-blog",
         "heading": "",
         "heading_size": "h1",
         "blog": "feature",
@@ -227,15 +228,6 @@
             "row_content": "",
             "page": "parking-transit"
           }
-        },
-        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Membership",
-            "icon": "none",
-            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -243,8 +235,7 @@
         "bc24e3af-5cba-4e8d-b3fe-902d390663ca",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3",
-        "6752e055-65e3-4dd7-bfc9-f6b616a5ea17"
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
       ],
       "settings": {
         "caption": "",
@@ -261,40 +252,41 @@
         "padding_bottom": 36
       }
     },
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671": {
-      "type": "image-with-text",
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d": {
+      "type": "video-with-text",
       "blocks": {
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1": {
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "The Quaker Way",
+            "heading": "Give A Gift Today",
             "heading_size": "h2"
           }
         },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1": {
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Quakerism is an experiential faith. Each person’s journey may be different, but the shared experience deepens and enriches our lives. We believe that every person is loved by the Divine Spirit. There are Friends of all ages, religious backgrounds, races, education, sexual orientations, gender identities, and classes.<\/p>",
+            "text": "<p>Your support is invaluable to Central Philadelphia Quaker Meeting's ongoing commitment to community engagement, spiritual nourishment, and outreach. <\/p>",
             "text_style": "body"
           }
         },
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1": {
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "CONTACT US",
-            "button_link": "",
+            "button_label": "Support Us",
+            "button_link": "https:\/\/www.pym.org\/donate\/",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-heading-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-text-1",
-        "template--21535825756470__0105bab3-e151-4b72-8cbc-fe1f5fa03671-button-1"
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-21_at_6.57.11_PM.png",
+        "section-id": "home-page-video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw",
+        "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -407,12 +399,12 @@
             "page": ""
           }
         },
-        "f9556e11-32c6-4969-b55c-59adc3175b3a": {
+        "f89f625d-6147-43a7-af95-2ded06c63685": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Resources",
+            "heading": "Membership",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
             "page": ""
           }
         },
@@ -421,15 +413,15 @@
           "settings": {
             "heading": "Burial Grounds",
             "icon": "none",
-            "row_content": "<p>More here.. <\/p>",
-            "page": ""
+            "row_content": "",
+            "page": "friends-southwestern-burial-ground"
           }
         }
       },
       "block_order": [
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
-        "f9556e11-32c6-4969-b55c-59adc3175b3a",
+        "f89f625d-6147-43a7-af95-2ded06c63685",
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
       ],
       "settings": {
@@ -504,6 +496,7 @@
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1",
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "donate-to-central-philadelphia-meeting-donation-package",
         "color_scheme": "",
@@ -540,12 +533,11 @@
         },
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Support Us",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -556,13 +548,12 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1",
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/clouds-banner-1_0e056f3a-3112-4702-8cd4-c9b9095b7b74.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "ambient",
@@ -681,7 +672,7 @@
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
-    "0105bab3-e151-4b72-8cbc-fe1f5fa03671",
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
