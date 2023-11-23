@@ -15,9 +15,9 @@
 
   .article-card__excerpt {
     color: $darkBlue;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
     display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
     overflow: hidden;
     min-height: 87px;
   }
@@ -29,15 +29,43 @@
     min-height: 95px;
   }
 
-  // .grid {
-  //   column-gap: 30px;
-  //   row-gap: 30px;
-  // }
+  .grid {
+    display: flex;
+
+    margin-bottom: 2rem;
+    padding: 0;
+    list-style: none;
+    justify-content: space-between;
+    row-gap: 35px;
+    padding: 15px;
+  }
 
   // .page-width-desktop {
   //   padding: 0 !important;
   // }
 }
+
+
+@media screen and (min-width: 990px) {
+  .grid--3-col-desktop .grid__item {
+    width: 30%;
+    max-width: 30%;
+  }
+}
+
+// hero
+
+// .banner__heading {
+//   text-shadow: #013b5c -9px 0 15px;
+// }
+
+.banner__text {
+  text-shadow: $darkBlue -9px 0 35px;
+}
+
+// .banner__buttons {
+//   text-shadow: $darkBlue -9px 0 15px;
+// }
 
 // Multirow - section
 
@@ -58,7 +86,9 @@
   margin-bottom: 90px;
 
   .card__content {
-    margin-top: -250px;
+    // margin-top: -250px;
+    // margin-bottom: 58px;
+    position: absolute;
     z-index: 10;
     padding: 0px 30px 0 15px;
   }
@@ -69,8 +99,13 @@
     opacity: 0.6;
   }
 
+  .card__heading a {
+    color: white !important;
+  }
+
   .card__inner {
     width: 95%;
+    position: relative;
   }
   
   .card__media {
@@ -79,6 +114,25 @@
 
   .page-width-desktop {
     padding: 0;
+  }
+
+  .article-card__excerpt {
+    color: white;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    min-height: 85px;
+  }
+
+  .grid {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+  }
+
+  .overlay {
+    background-color: $darkBlue;
   }
 }
 
@@ -148,4 +202,10 @@ summary .icon-caret {
 .footer-logo {
   width: 300px;
   margin: 9px 0 18px -8px;
+}
+
+// caption text
+
+.image-with-text__content > :first-child:is(.image-with-text__heading), .image-with-text__text--caption + .image-with-text__heading, .image-with-text__text--caption:first-child {
+  margin-bottom: 8px ;
 }

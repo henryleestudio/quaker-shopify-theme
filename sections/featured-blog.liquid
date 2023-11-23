@@ -107,13 +107,15 @@
                     style="--ratio-percent: 80%;"
                   >
                     {%- if section.settings.show_image == true -%}
+                      
+                      <div class="overlay"></div>
+
                       <div class="article-card__image-wrapper card__media">
-                        <div class="overlay"></div>
                         <div class="article-card__image media">
                           {{ placeholder_image | placeholder_svg_tag: 'blog-placeholder-svg' }}
                         </div>
-                      </div>
-                    {%- endif -%}
+                  
+
                     <div id="featured-blog" class="card__content">
                       <div class="card__information">
                         <h3 class="card__heading h2">
@@ -124,6 +126,10 @@
                         </p>
                       </div> 
                     </div>
+
+                    </div>
+                  {%- endif -%}
+
                   </div>
                   <div id="featured-blog" class="card__content">
                     <div class="card__information">
