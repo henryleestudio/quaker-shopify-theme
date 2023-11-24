@@ -238,6 +238,7 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
       ],
       "settings": {
+        "section_id": "learn-more-collapsible-content",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
@@ -425,6 +426,7 @@
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
       ],
       "settings": {
+        "section_id": "",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
