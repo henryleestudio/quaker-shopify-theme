@@ -55,18 +55,18 @@
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Instructions",
+            "heading": "Will there be any fees charged for my donation?",
             "icon": "none",
-            "content": "",
+            "content": "<p>Our payment processor charges a standard transaction fee for each donation. However, we have worked to minimize the impact, and the majority of your contribution goes directly to supporting Central Philadelphia Quaker Meeting.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Content",
+            "heading": "What are my payment options?",
             "icon": "none",
-            "content": "",
+            "content": "<p>Our platform accepts various payment methods, including credit cards, making it convenient for you to contribute to our community.<\/p>",
             "page": ""
           }
         },
