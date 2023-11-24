@@ -79,6 +79,24 @@
             "page": ""
           }
         },
+        "a602797a-3aaa-4106-bf68-7a188292075d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "content": "",
+            "page": ""
+          }
+        },
+        "8121c80f-63a0-48bc-ae76-aee5f4569d28": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I easily modify or cancel my recurring gift?",
+            "icon": "none",
+            "content": "<p>Absolutely. Our platform provides user-friendly tools, allowing you to adjust or cancel your recurring donation at any time.<\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -98,6 +116,8 @@
         "collapsible-row-3",
         "collapsible-row-0",
         "collapsible-row-1",
+        "a602797a-3aaa-4106-bf68-7a188292075d",
+        "8121c80f-63a0-48bc-ae76-aee5f4569d28",
         "share"
       ],
       "settings": {
