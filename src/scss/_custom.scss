@@ -94,18 +94,21 @@
   }
 
   .card__inner, .card__media {
-    border: .5px solid $darkBlue;
+    border: .5px solid #013b5c8a;
     border-radius: 50px;
-    opacity: 0.6;
+    // opacity: 0.6;
   }
 
   .card__heading a {
     color: white !important;
+    // font-size: 185%;
+    text-shadow: $darkBlue 2px 0 50px;
   }
 
   .card__inner {
     width: 95%;
     position: relative;
+    text-shadow: $darkBlue 2px 0 50px;
   }
   
   .card__media {
@@ -123,6 +126,8 @@
     display: -webkit-box;
     overflow: hidden;
     min-height: 85px;
+    text-shadow: #013b5c -3px 0 160px;
+    font-size: 110%;
   }
 
   .grid {

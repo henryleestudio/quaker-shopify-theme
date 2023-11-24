@@ -70,16 +70,17 @@
   padding: 0px 30px 0 15px;
 }
 #custom-featured-blog .card__inner, #custom-featured-blog .card__media {
-  border: 0.5px solid #013b5c;
+  border: 0.5px solid rgba(1, 59, 92, 0.5411764706);
   border-radius: 50px;
-  opacity: 0.6;
 }
 #custom-featured-blog .card__heading a {
   color: white !important;
+  text-shadow: #013b5c 2px 0 50px;
 }
 #custom-featured-blog .card__inner {
   width: 95%;
   position: relative;
+  text-shadow: #013b5c 2px 0 50px;
 }
 #custom-featured-blog .card__media {
   border-radius: 50px;
@@ -94,6 +95,8 @@
   display: -webkit-box;
   overflow: hidden;
   min-height: 85px;
+  text-shadow: #013b5c -3px 0 160px;
+  font-size: 110%;
 }
 #custom-featured-blog .grid {
   display: flex;
