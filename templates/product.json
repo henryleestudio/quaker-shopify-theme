@@ -73,9 +73,9 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Content",
+            "heading": "Can I set up recurring gifts?",
             "icon": "none",
-            "content": "",
+            "content": "<p>Certainly! Our platform allows you to set up recurring donations based on your preferred frequency. You have the flexibility to choose the end date or total gift amount.<\/p>",
             "page": ""
           }
         },
