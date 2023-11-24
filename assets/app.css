@@ -166,6 +166,25 @@ summary .icon-caret {
   margin-bottom: 8px;
 }
 
+.shopify-payment-button .shopify-payment-button__button--unbranded {
+  position: relative;
+}
+
+.shopify-payment-button .shopify-payment-button__button--unbranded:after {
+  content: "Support Now";
+  background: inherit;
+  font-size: inherit;
+  color: inherit;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 /* component-button */
 /* Button - default */
 .button--secondary,

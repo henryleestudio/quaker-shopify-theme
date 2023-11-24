@@ -209,3 +209,23 @@ summary .icon-caret {
 .image-with-text__content > :first-child:is(.image-with-text__heading), .image-with-text__text--caption + .image-with-text__heading, .image-with-text__text--caption:first-child {
   margin-bottom: 8px ;
 }
+
+// buy now button text
+
+.shopify-payment-button .shopify-payment-button__button--unbranded {
+  position: relative;
+}
+.shopify-payment-button .shopify-payment-button__button--unbranded:after {
+  content: "Support Now";
+  background: inherit;
+  font-size: inherit;
+  color: inherit;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
