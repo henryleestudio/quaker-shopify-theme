@@ -158,6 +158,7 @@
         "image-with-text-0",
         "image-with-text-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "small",
         "desktop_image_width": "medium",
@@ -179,8 +180,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Content",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Embrace the Spirit of Giving",
+            "text": "<p>Dear Beloved Friends and Kindred Spirits,<br\/><br\/>As stewards of a community grounded in love, compassion, and inclusivity, we invite you to join us on a journey of generosity. Your support is the cornerstone of Central Philadelphia Quaker Meeting's ability to create a nurturing space for spiritual growth, communal connection, and meaningful outreach. Here's why your contribution matters.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -188,8 +189,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Content",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Give Now & Be a Beacon of Light",
+            "text": "<p>Your contribution, no matter the amount, echoes the Quaker values of simplicity, peace, integrity, community, equality, and stewardship. Together, let's continue to weave a tapestry of compassion and understanding.<\/p><p><br\/>In gratitude and unity,<\/p><p><br\/>The Members of the Finance Advisory Committee<\/p>",
             "link_label": "",
             "link": ""
           }
