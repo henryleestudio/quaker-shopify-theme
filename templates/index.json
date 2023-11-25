@@ -259,7 +259,6 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
           "type": "heading",
           "settings": {
-
             "heading": "Support Central Philadelphia Quaker Meeting",
             "heading_size": "h2"
           }
@@ -287,8 +286,12 @@
       ],
       "settings": {
         "section-id": "home-page-video",
+        "Youtube_video_url": "",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6973871f50024c0cb629c7774174ffc7.mp4",
         "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053",
+        "autoplay": false,
+        "show_controls": true,
+        "loop_video": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
