@@ -266,7 +266,7 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dear Friends & Attenders, Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.<\/p>",
+            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.<\/p>",
             "text_style": "body"
           }
         },
@@ -274,7 +274,7 @@
           "type": "button",
           "settings": {
             "button_label": "Support Us",
-            "button_link": "https:\/\/www.pym.org\/donate\/",
+            "button_link": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
             "button_style_secondary": false
           }
         }
@@ -286,7 +286,7 @@
       ],
       "settings": {
         "section-id": "home-page-video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6973871f50024c0cb629c7774174ffc7.mp4",
         "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -536,7 +536,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Support Us",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
