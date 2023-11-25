@@ -40,9 +40,9 @@
       "reset": "Clear search term"
     },
     "cart": {
-      "view": "View cart ({{ count }})",
-      "view_empty_cart": "View cart",
-      "item_added": "Item added to your cart"
+      "view": "View basket ({{ count }})",
+      "view_empty_cart": "View basket",
+      "item_added": "Item added to your basket"
     },
     "share": {
       "close": "Close share",
@@ -137,7 +137,7 @@
         "minimum_of": "Minimum of {{ quantity }}",
         "maximum_of": "Maximum of {{ quantity }}",
         "multiples_of": "Increments of {{ quantity }}",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> in cart",
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> in basket",
         "note": "View quantity rules"
       },
       "volume_pricing": {
@@ -241,7 +241,7 @@
       "pages": "Pages"
     },
     "cart": {
-      "cart": "Cart"
+      "cart": "Basket"
     },
     "contact": {
       "form": {
@@ -341,7 +341,7 @@
     },
     "quick_order_list": {
       "product_total": "Product subtotal",
-      "view_cart": "View cart",
+      "view_cart": "View basket",
       "each": "{{ money }}\/ea",
       "product": "Product",
       "variant": "Variant",
@@ -512,6 +512,40 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "cart": "Donation basket",
+        "back_to_cart": "Return to donation basket"
+      },
+      "stock": {
+        "removed_from_cart_notice": "Removed from basket",
+        "remove_from_cart_button_label": "Remove from basket",
+        "go_back_to_cart_button_label": "Go back to basket",
+        "empty_cart_label": "Your basket is empty",
+        "quantity_update": {
+          "description": "Available quantities for these donations have changed and are updated in your basket."
+        },
+        "unpurchasable_product": {
+          "header": "Some items were removed from you basket"
+        },
+        "unpurchasable_product_generic": {
+          "header": "Some items were removed from you basket"
+        }
+      },
+      "order_summary": {
+        "shopping_cart_label": "Donation basket label"
+      }
+    },
+    "notices": {
+      "cart": {
+        "empty_update": "Cannot update empty basket",
+        "generic_error": "Donation basket error",
+        "changed": "Donation basket changed"
+      }
+    },
+    "page_titles": {
+      "shopping_cart": "Your gift basket"
     }
   }
 }
