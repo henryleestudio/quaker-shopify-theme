@@ -28,7 +28,7 @@
         "tiktok": "TikTok"
       }
     },
-    "continue_shopping": "Continue shopping",
+    "continue_shopping": "Continue browsing",
     "pagination": {
       "label": "Pagination",
       "page": "Page {{ number }}",
@@ -535,6 +535,16 @@
       },
       "order_summary": {
         "shopping_cart_label": "Donation basket label"
+      },
+      "thank_you": {
+        "return_to_store_link_label": "other options"
+      },
+      "throttle": {
+        "inventory": {
+          "sold_out": {
+            "storefront_body": "Go back to continue browsing"
+          }
+        }
       }
     },
     "notices": {
