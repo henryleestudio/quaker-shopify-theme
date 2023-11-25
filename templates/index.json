@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "LEARN MORE",
-            "button_link_1": "#shopify-section-template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92",
+            "button_link_1": "#learn-more-collapsible-content",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -238,6 +238,7 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
       ],
       "settings": {
+        "section_id": "learn-more-collapsible-content",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
@@ -258,14 +259,15 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Give A Gift",
+
+            "heading": "Support Central Philadelphia Quaker Meeting",
             "heading_size": "h2"
           }
         },
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your support is invaluable to Central Philadelphia Quaker Meeting's ongoing commitment to community engagement, spiritual nourishment, and outreach. <\/p>",
+            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.<\/p>",
             "text_style": "body"
           }
         },
@@ -273,7 +275,7 @@
           "type": "button",
           "settings": {
             "button_label": "Support Us",
-            "button_link": "https:\/\/www.pym.org\/donate\/",
+            "button_link": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
             "button_style_secondary": false
           }
         }
@@ -285,7 +287,7 @@
       ],
       "settings": {
         "section-id": "home-page-video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6973871f50024c0cb629c7774174ffc7.mp4",
         "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -425,6 +427,7 @@
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
       ],
       "settings": {
+        "section_id": "",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
@@ -496,7 +499,6 @@
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1",
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1"
       ],
-      "disabled": true,
       "settings": {
         "product": "donate-to-central-philadelphia-meeting-donation-package",
         "color_scheme": "",
@@ -535,7 +537,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Support Us",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",

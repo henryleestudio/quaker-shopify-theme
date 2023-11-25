@@ -70,16 +70,17 @@
   padding: 0px 30px 0 15px;
 }
 #custom-featured-blog .card__inner, #custom-featured-blog .card__media {
-  border: 0.5px solid #013b5c;
+  border: 0.5px solid rgba(1, 59, 92, 0.5411764706);
   border-radius: 50px;
-  opacity: 0.6;
 }
 #custom-featured-blog .card__heading a {
   color: white !important;
+  text-shadow: #013b5c 2px 0 50px;
 }
 #custom-featured-blog .card__inner {
   width: 95%;
   position: relative;
+  text-shadow: #013b5c 2px 0 50px;
 }
 #custom-featured-blog .card__media {
   border-radius: 50px;
@@ -94,6 +95,8 @@
   display: -webkit-box;
   overflow: hidden;
   min-height: 85px;
+  text-shadow: #013b5c -3px 0 160px;
+  font-size: 110%;
 }
 #custom-featured-blog .grid {
   display: flex;
@@ -164,6 +167,25 @@ summary .icon-caret {
 
 .image-with-text__content > :first-child:is(.image-with-text__heading), .image-with-text__text--caption + .image-with-text__heading, .image-with-text__text--caption:first-child {
   margin-bottom: 8px;
+}
+
+.shopify-payment-button .shopify-payment-button__button--unbranded {
+  position: relative;
+}
+
+.shopify-payment-button .shopify-payment-button__button--unbranded:after {
+  content: "Support Now";
+  background: inherit;
+  font-size: inherit;
+  color: inherit;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 /* component-button */

@@ -106,7 +106,7 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Add to cart",
+      "add_to_cart": "Add to Basket",
       "choose_options": "Choose options",
       "choose_product_options": "Choose options for {{ product_name }}",
       "description": "Description",
@@ -277,26 +277,26 @@
       }
     },
     "cart": {
-      "title": "Your cart",
-      "caption": "Cart items",
+      "title": "Your Basket",
+      "caption": "Basket items",
       "remove_title": "Remove {{ title }}",
       "estimated_total": "Estimated total",
       "new_estimated_total": "New estimated total",
       "note": "Order special instructions",
-      "checkout": "Check out",
-      "empty": "Your cart is empty",
-      "cart_error": "There was an error while updating your cart. Please try again.",
-      "cart_quantity_error_html": "You can only add {{ quantity }} of this item to your cart.",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes, Discounts and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
-      "taxes_included_but_shipping_at_checkout": "Tax included and shipping and discounts calculated at checkout",
-      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> and discounts calculated at checkout.",
-      "taxes_and_shipping_at_checkout": "Taxes, discounts and shipping calculated at checkout",
+      "checkout": "Donate ",
+      "empty": "Your basket is empty",
+      "cart_error": "There was an error while updating your basket. Please try again.",
+      "cart_quantity_error_html": "You can only add {{ quantity }} of this item to your basket.",
+      "taxes_and_shipping_policy_at_checkout_html": "If applicable Discounts and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
+      "taxes_included_but_shipping_at_checkout": "Tax included and shipping and discounts calculated at donate now page",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> and discounts calculated at donate now page.",
+      "taxes_and_shipping_at_checkout": "Discounts, shipping, and etc calculated at checkout",
       "headings": {
-        "product": "Product",
-        "price": "Price",
-        "total": "Total",
+        "product": "Option",
+        "price": "Gift",
+        "total": "Amount",
         "quantity": "Quantity",
-        "image": "Product image"
+        "image": "Gift image"
       },
       "update": "Update",
       "login": {
@@ -320,7 +320,7 @@
       "view_all": "View all"
     },
     "collection_template": {
-      "empty": "No products found",
+      "empty": "No Gifts found",
       "title": "Collection",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all<\/a>"
     },
@@ -356,7 +356,7 @@
       },
       "product_variants": "Product variants",
       "total_items": "Total items",
-      "remove_all_items_confirmation": "Remove all {{ quantity }} items from your cart?",
+      "remove_all_items_confirmation": "Remove all {{ quantity }} items from your donation basket?",
       "remove_all": "Remove all",
       "cancel": "Cancel"
     }
