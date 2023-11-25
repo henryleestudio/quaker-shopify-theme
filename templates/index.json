@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102",
+            "text": "Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually",
             "text_style": "body"
           }
         },
@@ -286,7 +286,7 @@
       ],
       "settings": {
         "section-id": "home-page-video",
-        "Youtube_video_url": "",
+        "youtube_video_url": "",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6973871f50024c0cb629c7774174ffc7.mp4",
         "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-21_at_6.57.11_PM.png?v=1700611053",
         "autoplay": false,
@@ -392,7 +392,7 @@
             "heading": "Teachings",
             "icon": "none",
             "row_content": "",
-            "page": ""
+            "page": "teachings"
           }
         },
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
@@ -502,6 +502,7 @@
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1",
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "donate-to-central-philadelphia-meeting-donation-package",
         "color_scheme": "",
