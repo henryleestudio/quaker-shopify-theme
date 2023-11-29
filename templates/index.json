@@ -386,6 +386,15 @@
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
       "type": "collapsible-content",
       "blocks": {
+        "c4a2f36c-0297-46c5-8bc3-9ac5d6b28199": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Events",
+            "icon": "none",
+            "row_content": "",
+            "page": "events-calender"
+          }
+        },
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
           "type": "collapsible_row",
           "settings": {
@@ -424,6 +433,7 @@
         }
       },
       "block_order": [
+        "c4a2f36c-0297-46c5-8bc3-9ac5d6b28199",
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
         "f89f625d-6147-43a7-af95-2ded06c63685",
