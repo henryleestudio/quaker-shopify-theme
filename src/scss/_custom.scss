@@ -107,7 +107,7 @@
   }
 
   .card__heading a {
-    color: white !important;
+    color: $darkBlue;
     // font-size: 185%;
     text-shadow: $darkBlue 2px 0 50px;
   }
@@ -127,7 +127,7 @@
   }
 
   .article-card__excerpt {
-    color: white;
+    color: $darkBlue;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     display: -webkit-box;
@@ -165,7 +165,9 @@ summary .icon-caret {
 // video with text
 
 #home-page-video {
-
+  .image-with-text__media {
+    opacity: 0.9;
+  }
 }
 
 .image-with-text__video {
@@ -240,10 +242,4 @@ summary .icon-caret {
   position: absolute;
   top: 0;
   left: 0;
-}
-
-#youtube_video_url {
-  .image-with-text__media {
-    opacity: 1;
-  }
 }

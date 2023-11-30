@@ -80,7 +80,7 @@
   opacity: 0.4;
 }
 #custom-featured-blog .card__heading a {
-  color: white !important;
+  color: #013b5c;
   text-shadow: #013b5c 2px 0 50px;
 }
 #custom-featured-blog .card__inner {
@@ -95,7 +95,7 @@
   padding: 0;
 }
 #custom-featured-blog .article-card__excerpt {
-  color: white;
+  color: #013b5c;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   display: -webkit-box;
@@ -123,6 +123,10 @@
 
 summary .icon-caret {
   height: 0.8rem;
+}
+
+#home-page-video .image-with-text__media {
+  opacity: 0.9;
 }
 
 .image-with-text__video {
