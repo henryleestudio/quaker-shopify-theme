@@ -679,6 +679,21 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "abbd64b7-435c-4614-8b2b-77660f74953f": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community_5bc580d4-1e6e-4873-a287-50db7d74e5bb.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -695,6 +710,7 @@
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
     "multicolumn",
-    "9428b839-4c2a-4e05-b035-49bdaa29b9fa"
+    "9428b839-4c2a-4e05-b035-49bdaa29b9fa",
+    "abbd64b7-435c-4614-8b2b-77660f74953f"
   ]
 }
