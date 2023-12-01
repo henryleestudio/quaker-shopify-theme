@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Central Philadelphia Monthly Meeting ( CPMM )<\/br><\/br> Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually",
             "text_style": "body"
           }
         },
@@ -273,8 +273,8 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Support Us",
-            "button_link": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
+            "button_label": "DONATE",
+            "button_link": "https:\/\/www.centralphiladelphiaquakers.org\/pages\/donations",
             "button_style_secondary": false
           }
         }
@@ -334,7 +334,7 @@
             "image": "shopify:\/\/shop_images\/color-8.png",
             "caption": "About Us",
             "heading": "Who We Are",
-            "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102<\/p>",
+            "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually<\/p>",
             "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/pages\/who-we-are"
           }
@@ -550,8 +550,8 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Support Us",
-            "button_link_1": "https:\/\/www.pym.org\/donate\/give-to-a-meeting\/",
+            "button_label_1": "DONATE",
+            "button_link_1": "https:\/\/www.centralphiladelphiaquakers.org\/pages\/donations",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
