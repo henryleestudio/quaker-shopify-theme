@@ -62,17 +62,10 @@
 
 // hero
 
-// .banner__heading {
-//   text-shadow: #013b5c -9px 0 15px;
-// }
-
 .banner__text {
   text-shadow: $darkBlue -9px 0 35px;
 }
 
-// .banner__buttons {
-//   text-shadow: $darkBlue -9px 0 15px;
-// }
 
 // Multirow - section
 
@@ -93,8 +86,6 @@
   margin-bottom: 90px;
 
   .card__content {
-    // margin-top: -250px;
-    // margin-bottom: 58px;
     position: absolute;
     z-index: 10;
     padding: 0px 30px 0 15px;
