@@ -1,4 +1,5 @@
-# Central Philadelphia Quakers – Shopify Theme Development
+# Central Philadelphia Quakers 
+# Shopify Theme Development
 
 Link to project: <a target="_blank" href="https://www.centralphiladelphiaquakers.org/">live demo</a>
 
