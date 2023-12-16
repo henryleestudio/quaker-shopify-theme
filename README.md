@@ -8,7 +8,7 @@ Link to project: <a target="_blank" href="https://www.centralphiladelphiaquakers
 ![www centralphiladelphiaquakers org_ (17)](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/91e394d3-9900-4cc8-a571-8273b668b965)
 ![central-philadelphia-quaker-meeting-slide-5](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/78b12db9-fbe4-41ed-92f8-063a26ed8d1c)
 ![central-philadelphia-quaker-meeting-slide-6](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/5af185a0-2f9c-40ea-8672-2ee313a1198e)
-![central-philadelphia-quaker-meeting-slide-12](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/8e66b3c1-5ebe-49ea-8da6-9e9e3275595f)
+![central-philadelphia-quaker-meeting-slide-12 5](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/efe0d04f-eaec-4dbc-b1f5-2dce1acf0b23)
 ![central-philadelphia-quaker-meeting-slide-9](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/e836add5-ab33-4436-884f-214226a4e1b7)
 ![central-philadelphia-quaker-meeting-slide-10](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/c6768366-bfc0-4699-adb9-ae54b77ef723)
 ![central-philadelphia-quaker-meeting-slide-7](https://github.com/henryleestudio/quaker-shopify-theme/assets/101936420/53b25d20-f76f-4ec1-91f1-83176f1d6c6c)
