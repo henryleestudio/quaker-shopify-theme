@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Central Philadelphia <\/br> Q<em>uaker<\/em> Meeting",
+            "heading": "Central Philadelphia  Q<em>uaker<\/em> Meeting",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Central Philadelphia Monthly Meeting ( CPMM )<\/br><\/br> Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually",
+            "text": "Central Philadelphia Monthly Meeting ( CPMM ) Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually",
             "text_style": "body"
           }
         },
@@ -172,7 +172,7 @@
         "blog": "feature",
         "post_limit": 2,
         "columns_desktop": 2,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-2",
         "show_image": false,
         "show_date": false,
         "show_author": false,
