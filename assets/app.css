@@ -21,6 +21,26 @@
   transform: translate(-2px, -2px);
 }
 
+@media screen and (min-width: 990px) {
+  .grid--3-col-desktop .grid__item {
+    width: 30%;
+    max-width: 31.5%;
+  }
+}
+.banner__text {
+  text-shadow: #013b5c -9px 0 35px;
+}
+
+.image-with-text__media {
+  opacity: 0.4;
+}
+
+.donation-icon {
+  fill: #013b5c;
+  width: 35px;
+  margin: -12px -28px 0 0;
+}
+
 #custom-blog-cards .card__content {
   color: #013b5c;
   background: white;
@@ -55,71 +75,37 @@
   padding: 15px;
 }
 
-@media screen and (min-width: 990px) {
-  .grid--3-col-desktop .grid__item {
-    width: 30%;
-    max-width: 31.5%;
-  }
-}
-.banner__text {
-  text-shadow: #013b5c -9px 0 35px;
-}
-
-.image-with-text__media {
-  opacity: 0.4;
-}
-
-.donation-icon {
-  fill: #013b5c;
-  width: 35px;
-  margin: -12px -28px 0 0;
-}
-
 #custom-featured-blog {
-  margin-bottom: 90px;
+  margin-bottom: 70px;
 }
 #custom-featured-blog .card__content {
-  position: absolute;
   z-index: 10;
   padding: 0px 30px 0 15px;
 }
 #custom-featured-blog .card__inner, #custom-featured-blog .card__media {
-  border: 1px solid #013b5c;
+  border: 1px solid #B8DCCC;
   border-radius: 50px;
-  opacity: 0.4;
+  color: #B8DCCC;
 }
 #custom-featured-blog .card__heading a {
-  color: #013b5c;
-  text-shadow: #013b5c 2px 0 50px;
+  color: #B8DCCC;
 }
 #custom-featured-blog .card__inner {
-  width: 95%;
+  background: #578fb8;
   position: relative;
-  text-shadow: #013b5c 2px 0 50px;
+  text-shadow: #B8DCCC 2px 0 50px;
 }
 #custom-featured-blog .card__media {
   border-radius: 50px;
 }
-#custom-featured-blog .page-width-desktop {
-  padding: 0;
-}
 #custom-featured-blog .article-card__excerpt {
-  color: #013b5c;
+  color: #B8DCCC;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   display: -webkit-box;
   overflow: hidden;
   min-height: 85px;
-  text-shadow: #013b5c -3px 0 160px;
   font-size: 110%;
-}
-#custom-featured-blog .grid {
-  display: flex;
-  justify-content: space-between;
-  padding: 15px;
-}
-#custom-featured-blog .overlay {
-  background-color: #013b5c;
 }
 
 .accordion:first-child {
