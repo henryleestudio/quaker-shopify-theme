@@ -5,52 +5,17 @@
   padding: 0 0rem !important;
 }
 
-// Custom blog cards - section
+.button--secondary {
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+  transition: 200ms;
 
-#custom-blog-cards {
-  .card__content {
-    color: $darkBlue;
-    background: white;
-    border-radius: 50px;
+  &:hover {
+    box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 $darkBlue;
+    transform: translate(-2px, -2px);
   }
-
-  .card--standard .card__inner {
-    color: $darkBlue;
-    border: 1px solid $darkBlue;
-    border-radius: 50px;
-  }
-
-  .article-card__excerpt {
-    color: $darkBlue;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-    overflow: hidden;
-    min-height: 87px;
-  }
-
-  .card__heading {
-    color: $darkBlue;
-    font-family: $baskerville !important;
-    margin-bottom: 0.6rem;
-    min-height: 95px;
-  }
-
-  .grid {
-    display: flex;
-
-    margin-bottom: 2rem;
-    padding: 0;
-    list-style: none;
-    justify-content: space-between;
-    row-gap: 35px;
-    padding: 15px;
-  }
-
-  // .page-width-desktop {
-  //   padding: 0 !important;
-  // }
 }
+
+
 
 
 @media screen and (min-width: 990px) {
@@ -81,63 +46,7 @@
 
 // featured blog
 
-#custom-featured-blog {
 
-  margin-bottom: 90px;
-
-  .card__content {
-    position: absolute;
-    z-index: 10;
-    padding: 0px 30px 0 15px;
-  }
-
-  .card__inner, .card__media {
-    border: 1px solid $darkBlue;
-    border-radius: 50px;
-    opacity: 0.4;
-  }
-
-  .card__heading a {
-    color: $darkBlue;
-    // font-size: 185%;
-    text-shadow: $darkBlue 2px 0 50px;
-  }
-
-  .card__inner {
-    width: 95%;
-    position: relative;
-    text-shadow: $darkBlue 2px 0 50px;
-  }
-  
-  .card__media {
-    border-radius: 50px;
-  }
-
-  .page-width-desktop {
-    padding: 0;
-  }
-
-  .article-card__excerpt {
-    color: $darkBlue;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    display: -webkit-box;
-    overflow: hidden;
-    min-height: 85px;
-    text-shadow: #013b5c -3px 0 160px;
-    font-size: 110%;
-  }
-
-  .grid {
-    display: flex;
-    justify-content: space-between;
-    padding: 15px;
-  }
-
-  .overlay {
-    background-color: $darkBlue;
-  }
-}
 
 // accordian 
 

@@ -12,6 +12,15 @@
   padding: 0 0rem !important;
 }
 
+.button--secondary {
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 #013b5c;
+  transition: 200ms;
+}
+.button--secondary:hover {
+  box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 #013b5c;
+  transform: translate(-2px, -2px);
+}
+
 #custom-blog-cards .card__content {
   color: #013b5c;
   background: white;
