@@ -5,6 +5,64 @@
   padding: 0 0rem !important;
 }
 
+.button:hover {
+  transform: none;
+  transition: none;
+}
+
+.button--secondary {
+  // box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+  box-shadow: 2.5px 2.5px 0 0 white, 5px 5px 0 #6D9FC5;
+  transition: 200ms;
+
+  &:hover {
+    box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 #6D9FC5;
+    transform: translate(-2px, -2px);
+  }
+}
+// .shopify-challenge__button:after, .customer button:after, .shopify-payment-button__button--unbranded:after,
+//    .button:before, .shopify-challenge__button:before, .customer button:before, .shopify-payment-button__button--unbranded:before, .shopify-payment-button [role=button]:before, .cart__dynamic-checkout-buttons [role=button]:before{
+//    display: none !important;
+// }
+
+.button--primary {
+    // box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+    box-shadow: 2px 2px 0 0 white, 4px 4px 0 $darkBlue;
+    transition: 200ms;
+    color: white !important;
+  
+    &:hover {
+      // box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 $darkBlue;
+      box-shadow: 3px 3px 0 0 white, 6px 6px 0 $darkBlue;
+      transform: translate(-2px, -2px);
+    }
+}
+
+@media screen and (min-width: 990px) {
+  .grid--3-col-desktop .grid__item {
+    width: 30%;
+    max-width: 31.5%;
+  }
+}
+
+// hero
+
+.banner__text {
+  text-shadow: $darkBlue -9px 0 35px;
+}
+
+// Multirow - section
+
+.image-with-text__media {
+  opacity: 0.4;
+}
+
+.donation-icon {
+  fill: $darkBlue;
+  width: 35px;
+  margin: -12px -28px 0 0;
+}
+
 // Custom blog cards - section
 
 #custom-blog-cards {
@@ -38,7 +96,6 @@
 
   .grid {
     display: flex;
-
     margin-bottom: 2rem;
     padding: 0;
     list-style: none;
@@ -46,96 +103,47 @@
     row-gap: 35px;
     padding: 15px;
   }
-
-  // .page-width-desktop {
-  //   padding: 0 !important;
-  // }
-}
-
-
-@media screen and (min-width: 990px) {
-  .grid--3-col-desktop .grid__item {
-    width: 30%;
-    max-width: 31.5%;
-  }
-}
-
-// hero
-
-.banner__text {
-  text-shadow: $darkBlue -9px 0 35px;
-}
-
-
-// Multirow - section
-
-.image-with-text__media {
-  opacity: 0.4;
-}
-
-.donation-icon {
-  fill: $darkBlue;
-  width: 35px;
-  margin: -12px -28px 0 0;
 }
 
 // featured blog
 
 #custom-featured-blog {
 
-  margin-bottom: 90px;
+  margin-bottom: 70px;
 
   .card__content {
-    position: absolute;
     z-index: 10;
     padding: 0px 30px 0 15px;
   }
 
   .card__inner, .card__media {
-    border: 1px solid $darkBlue;
+    border: 1px solid #B8DCCC;
     border-radius: 50px;
-    opacity: 0.4;
+    color: $accent;
   }
 
   .card__heading a {
-    color: $darkBlue;
-    // font-size: 185%;
-    text-shadow: $darkBlue 2px 0 50px;
+    color: #B8DCCC;
   }
 
   .card__inner {
-    width: 95%;
+    background: #013b5cbd;
     position: relative;
-    text-shadow: $darkBlue 2px 0 50px;
+    text-shadow: #B8DCCC 0px 0px 130px;
   }
   
   .card__media {
     border-radius: 50px;
   }
 
-  .page-width-desktop {
-    padding: 0;
-  }
-
   .article-card__excerpt {
-    color: $darkBlue;
+    color: $accent;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     display: -webkit-box;
     overflow: hidden;
     min-height: 85px;
-    text-shadow: #013b5c -3px 0 160px;
     font-size: 110%;
-  }
-
-  .grid {
-    display: flex;
-    justify-content: space-between;
-    padding: 15px;
-  }
-
-  .overlay {
-    background-color: $darkBlue;
   }
 }
 
@@ -220,6 +228,7 @@ summary .icon-caret {
 .shopify-payment-button .shopify-payment-button__button--unbranded {
   position: relative;
 }
+
 .shopify-payment-button .shopify-payment-button__button--unbranded:after {
   content: "Support Now";
   background: inherit;
