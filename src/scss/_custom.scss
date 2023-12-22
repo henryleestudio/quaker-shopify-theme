@@ -6,13 +6,31 @@
 }
 
 .button--secondary {
-  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+  // box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+  box-shadow: 2.5px 2.5px 0 0 white, 5px 5px 0 $darkBlue;
   transition: 200ms;
 
   &:hover {
     box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 $darkBlue;
     transform: translate(-2px, -2px);
   }
+}
+.shopify-challenge__button:after, .customer button:after, .shopify-payment-button__button--unbranded:after,
+   .button:before, .shopify-challenge__button:before, .customer button:before, .shopify-payment-button__button--unbranded:before, .shopify-payment-button [role=button]:before, .cart__dynamic-checkout-buttons [role=button]:before{
+   display: none !important;
+}
+
+.button--primary {
+    // box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 $darkBlue;
+    box-shadow: 2px 2px 0 0 $tan, 4px 4px 0 $darkBlue;
+    transition: 200ms;
+    color: $tan !important;
+  
+    &:hover {
+      // box-shadow: 3px 3px 0 0 white, 6px 6px 0 0 $darkBlue;
+      box-shadow: 3px 3px 0 0 $tan, 6px 6px 0 $darkBlue;
+      transform: translate(-2px, -2px);
+    }
 }
 
 @media screen and (min-width: 990px) {
@@ -104,9 +122,9 @@
   }
 
   .card__inner {
-    background: #578fb8;
+    background: #013b5cbd;
     position: relative;
-    text-shadow: #B8DCCC 2px 0 50px;
+    text-shadow: #B8DCCC 0px 0px 130px;
   }
   
   .card__media {
