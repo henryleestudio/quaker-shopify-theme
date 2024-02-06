@@ -389,7 +389,7 @@
         "c4a2f36c-0297-46c5-8bc3-9ac5d6b28199": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Calendar",
+            "heading": "Events Calendar",
             "icon": "none",
             "row_content": "",
             "page": "events-calender"
