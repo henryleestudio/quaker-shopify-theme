@@ -98,9 +98,9 @@
     "custom_blog_cards_jxJTc7": {
       "type": "custom-blog-cards",
       "settings": {
-        "heading": "What's Happening",
+        "heading": "Get to Know Us",
         "heading_size": "h2",
-        "blog": "",
+        "blog": "get-to-know-us",
         "post_limit": 6,
         "columns_desktop": 3,
         "color_scheme": "",
