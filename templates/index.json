@@ -112,6 +112,23 @@
         "padding_bottom": 36
       }
     },
+    "custom_blog_cards_jxJTc7": {
+      "type": "custom-blog-cards",
+      "settings": {
+        "heading": "What's Happening",
+        "heading_size": "h2",
+        "blog": "get-to-know-us",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": false,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d579337-0713-454c-a420-91cd5b1761ad": {
       "type": "image-with-text",
       "blocks": {
@@ -685,6 +702,7 @@
     "image_banner",
     "rich_text",
     "aef5a4d3-465b-4aa1-82e5-bb98a7cfd51e",
+    "custom_blog_cards_jxJTc7",
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
