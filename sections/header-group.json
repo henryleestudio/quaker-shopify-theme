@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "The Quaker Way",
             "link": ""
