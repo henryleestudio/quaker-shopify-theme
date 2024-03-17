@@ -66,7 +66,6 @@
         },
         "187371e5-4b4e-4029-910a-8ee5e8437bec": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Welcome",
             "heading_size": "h1"
@@ -74,7 +73,6 @@
         },
         "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>We warmly invite into our worship and fellowship folks of all races, social<br\/>circumstances, sexual orientations, and gender identities.<\/p>"
           }
@@ -150,12 +148,12 @@
       ],
       "settings": {
         "section_id": "custom-featured-blog",
-        "heading": "",
+        "heading": "Get to Know Us",
         "heading_size": "h1",
-        "blog": "feature",
-        "post_limit": 2,
-        "columns_desktop": 2,
-        "color_scheme": "accent-2",
+        "blog": "get-to-know-us",
+        "post_limit": 6,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
         "show_image": false,
         "show_date": false,
         "show_author": false,
