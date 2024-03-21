@@ -180,6 +180,24 @@
         "padding_bottom": 36
       }
     },
+    "featured_blog_YKFzz6": {
+      "type": "featured-blog",
+      "settings": {
+        "section_id": "",
+        "heading": "What's happening:",
+        "heading_size": "h1",
+        "blog": "whats-happening",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "inverse",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d4c7336-7021-490b-815e-6ebffc0a7f92": {
       "type": "collapsible-content",
       "blocks": {
@@ -248,24 +266,6 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_blog_YKFzz6": {
-      "type": "featured-blog",
-      "settings": {
-        "section_id": "",
-        "heading": "What's happening:",
-        "heading_size": "h1",
-        "blog": "whats-happening",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "inverse",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -704,8 +704,8 @@
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "featured_blog_EgrTFa",
-    "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "featured_blog_YKFzz6",
+    "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
