@@ -158,7 +158,7 @@
           "background": "{{ shop.brand.colors.secondary[0].background }}",
           "background_gradient": "",
           "text": "{{ shop.brand.colors.primary[0].foreground }}",
-          "button": "{{ shop.brand.colors.primary[0].background }}",
+          "button": "#a4c9e8",
           "button_label": "{{ shop.brand.colors.primary[0].background }}",
           "secondary_button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
           "shadow": "{{ shop.brand.colors.secondary[0].foreground }}"
