@@ -261,7 +261,7 @@
         "blog": "whats-happening",
         "post_limit": 3,
         "columns_desktop": 3,
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "show_image": true,
         "show_date": true,
         "show_author": false,
