@@ -160,7 +160,7 @@
           "text": "{{ shop.brand.colors.primary[0].foreground }}",
           "button": "#ffffff",
           "button_label": "{{ shop.brand.colors.primary[0].background }}",
-          "secondary_button_label": "#ffffff",
+          "secondary_button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
           "shadow": "#121212"
         }
       },
