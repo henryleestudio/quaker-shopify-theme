@@ -171,7 +171,7 @@
         "blog": "are-you-looking-for",
         "post_limit": 3,
         "columns_desktop": 3,
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "show_image": false,
         "show_date": false,
         "show_author": false,
