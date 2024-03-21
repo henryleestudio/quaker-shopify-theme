@@ -167,8 +167,8 @@
       "accent-1": {
         "settings": {
           "background": "{{ shop.brand.colors.secondary[0].background }}",
-          "background_gradient": "radial-gradient(rgba(223, 128, 112, 1), rgba(255, 204, 75, 1) 100%)",
-          "text": "#ffffff",
+          "background_gradient": "",
+          "text": "{{ shop.brand.colors.primary[0].foreground }}",
           "button": "#ffffff",
           "button_label": "#121212",
           "secondary_button_label": "#ffffff",
