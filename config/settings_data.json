@@ -177,11 +177,11 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#013b5c",
+          "background": "{{ shop.brand.colors.secondary[1].background }}",
           "background_gradient": "",
-          "text": "#badad1",
-          "button": "#ffffff",
-          "button_label": "#334fb4",
+          "text": "#fff",
+          "button": "{{ shop.brand.colors.primary[0].background }}",
+          "button_label": "{{ shop.brand.colors.primary[0].foreground }}",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }

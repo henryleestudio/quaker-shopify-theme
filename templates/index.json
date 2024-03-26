@@ -189,7 +189,7 @@
         "blog": "whats-happening",
         "post_limit": 3,
         "columns_desktop": 3,
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "show_image": false,
         "show_date": false,
         "show_author": false,
