@@ -144,9 +144,9 @@
       },
       "background-2": {
         "settings": {
-          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background": "#FFFFFF",
           "background_gradient": "",
-          "text": "{{ shop.brand.colors.secondary[1].background }}",
+          "text": "{{ shop.brand.colors.secondary[0].foreground }}",
           "button": "{{ shop.brand.colors.secondary[0].background }}",
           "button_label": "#000000",
           "secondary_button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
