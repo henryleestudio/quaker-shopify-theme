@@ -149,7 +149,7 @@
           "text": "{{ shop.brand.colors.secondary[0].foreground }}",
           "button": "{{ shop.brand.colors.secondary[0].background }}",
           "button_label": "{{ shop.brand.colors.primary[0].foreground }}",
-          "secondary_button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
+          "secondary_button_label": "{{ shop.brand.colors.secondary[1].background }}",
           "shadow": "#013b5c"
         }
       },
