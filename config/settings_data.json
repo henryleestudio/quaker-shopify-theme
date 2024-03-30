@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/quaker-favicon-3.png",
+    "logo": "shopify:\/\/shop_images\/quaker-logo.png",
     "logo_width": 70,
     "favicon": "shopify:\/\/shop_images\/quaker-favicon-7.png",
     "type_header_font": "assistant_n4",
@@ -135,16 +135,16 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "#013b5c",
           "button_label": "#ffffff",
-          "secondary_button_label": "#fff",
+          "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
       },
       "background-2": {
         "settings": {
-          "background": "#FFFFFF",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "{{ shop.brand.colors.secondary[0].foreground }}",
           "button": "{{ shop.brand.colors.secondary[0].background }}",
@@ -158,7 +158,7 @@
           "background": "{{ shop.brand.colors.secondary[0].background }}",
           "background_gradient": "",
           "text": "{{ shop.brand.colors.secondary[0].foreground }}",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
           "secondary_button_label": "{{ shop.brand.colors.primary[0].foreground }}",
           "shadow": "#121212"
@@ -169,7 +169,7 @@
           "background": "{{ shop.brand.colors.primary[0].background }}",
           "background_gradient": "",
           "text": "{{ shop.brand.colors.primary[0].foreground }}",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
           "secondary_button_label": "{{ shop.brand.colors.secondary[1].background }}",
           "shadow": "#121212"
@@ -179,7 +179,7 @@
         "settings": {
           "background": "{{ shop.brand.colors.secondary[1].background }}",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "{{ shop.brand.colors.primary[0].background }}",
           "button_label": "{{ shop.brand.colors.primary[0].foreground }}",
           "secondary_button_label": "#ffffff",
