@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/clouds-banner-5.png",
+        "image": "shopify:\/\/shop_images\/Pendle_Hill_and_the_Ribble_Valley_-_geograph.org.uk_-_72304_-_cropped.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-left",
@@ -126,7 +126,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community-cropped-2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -334,7 +333,6 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw&t=14s",
-        "cover_image": "shopify:\/\/shop_images\/central-philadelphia-meeting-community.png",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -348,7 +346,6 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/color-8.png",
             "caption": "About Us",
             "heading": "Who We Are",
             "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually<\/p>",
@@ -359,7 +356,6 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/color-7.png",
             "caption": "led by the Spirit — Grounded in the silence",
             "heading": "How We Worship",
             "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
@@ -370,7 +366,6 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/color-5.png",
             "caption": "The Quaker Way",
             "heading": "Quaker Spirituality",
             "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
@@ -582,7 +577,6 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/clouds-banner-1_0e056f3a-3112-4702-8cd4-c9b9095b7b74.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -682,7 +676,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-02_at_5.35.36_PM.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
