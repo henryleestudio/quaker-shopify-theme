@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".article-template__link {display: none;}"
+        ".article-template__back {display: none;}"
       ],
       "settings": {
         "padding_top": 36,
