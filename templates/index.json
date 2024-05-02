@@ -183,7 +183,7 @@
       "type": "featured-blog",
       "settings": {
         "section_id": "",
-        "heading": "What's happening:",
+        "heading": "<strong>What's happening:<\/strong>",
         "heading_size": "h2",
         "blog": "whats-happening",
         "post_limit": 3,
