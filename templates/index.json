@@ -147,7 +147,7 @@
       ],
       "settings": {
         "section_id": "custom-featured-blog",
-        "heading": "Get to Know Us",
+        "heading": "<strong>Get to Know Us<\/strong>",
         "heading_size": "h2",
         "blog": "get-to-know-us",
         "post_limit": 6,
@@ -165,7 +165,7 @@
       "type": "featured-blog",
       "settings": {
         "section_id": "",
-        "heading": "Are you looking for . . . ?",
+        "heading": "<strong>Are you looking for . . . ?<\/strong>",
         "heading_size": "h2",
         "blog": "are-you-looking-for",
         "post_limit": 3,
