@@ -165,7 +165,7 @@
       "type": "featured-blog",
       "settings": {
         "section_id": "",
-        "heading": "<strong>Are you looking for . . . ?<\/strong>",
+        "heading": "<strong>Are you looking for . . . <\/strong>",
         "heading_size": "h2",
         "blog": "are-you-looking-for",
         "post_limit": 3,
