@@ -186,7 +186,7 @@
         "heading": "<strong>What's happening:<\/strong>",
         "heading_size": "h2",
         "blog": "whats-happening",
-        "post_limit": 3,
+        "post_limit": 6,
         "columns_desktop": 3,
         "color_scheme": "accent-2",
         "show_image": false,
