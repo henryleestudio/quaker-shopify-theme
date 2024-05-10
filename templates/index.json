@@ -217,8 +217,8 @@
         "button_cChBBP": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Upcoming Events",
+            "button_link": "https:\/\/www.calendarwiz.com\/cwlist\/cwlist_page.html?crd=central-philadelphia-quakers",
             "button_style_secondary": false
           }
         }
