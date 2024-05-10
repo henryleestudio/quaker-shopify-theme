@@ -197,6 +197,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_qTXEWH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RFWmyd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upcoming Events",
+            "heading_size": "h2"
+          }
+        },
+        "text_NgbgCy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.calendarwiz.com\/cwlist\/cwlist_page.hrml?crd=central-philadelphia-quakers\" title=\"https:\/\/www.calendarwiz.com\/cwlist\/cwlist_page.hrml?crd=central-philadelphia-quakers\">Upcoming Events<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_VDezrW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RFWmyd",
+        "text_NgbgCy",
+        "button_VDezrW"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/quaker-favicon-5.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d4c7336-7021-490b-815e-6ebffc0a7f92": {
       "type": "collapsible-content",
       "blocks": {
@@ -700,6 +747,7 @@
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "featured_blog_EgrTFa",
     "featured_blog_YKFzz6",
+    "image_with_text_qTXEWH",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
