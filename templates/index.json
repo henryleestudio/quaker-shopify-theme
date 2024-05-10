@@ -205,7 +205,7 @@
         "heading_size": "h2",
         "blog": "upcoming-events",
         "post_limit": 2,
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "color_scheme": "inverse",
         "show_image": true,
         "show_date": true,
