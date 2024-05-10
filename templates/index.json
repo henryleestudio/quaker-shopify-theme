@@ -210,7 +210,7 @@
         "text_NgbgCy": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https:\/\/www.calendarwiz.com\/cwlist\/cwlist_page.hrml?crd=central-philadelphia-quakers\" title=\"https:\/\/www.calendarwiz.com\/cwlist\/cwlist_page.hrml?crd=central-philadelphia-quakers\">Upcoming Events<\/a><\/p>",
+            "text": "<p>https:\/\/www.calendarwiz.com\/eventboard\/?crd=central-philadelphia-quakers<\/p>",
             "text_style": "body"
           }
         },
