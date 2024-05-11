@@ -210,7 +210,7 @@
         "text_XCHQaq": {
           "type": "text",
           "settings": {
-            "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our Upcoming Events page.<\/li><li>See the meeting calendar.<\/li><\/ul>",
+            "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our <a href=\"\/pages\/upcoming-events\" title=\"Upcoming Events\">Upcoming Events<\/a> page.<\/li><li>See the <a href=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\" target=\"_blank\" title=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\">meeting calendar<\/a>.<\/li><\/ul>",
             "text_style": "body"
           }
         },
