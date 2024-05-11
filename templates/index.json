@@ -213,20 +213,11 @@
             "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our <a href=\"\/pages\/upcoming-events\" title=\"Upcoming Events\">Upcoming Events<\/a> page.<\/li><li>See the <a href=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\" target=\"_blank\" title=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\">meeting calendar<\/a>.<\/li><\/ul>",
             "text_style": "body"
           }
-        },
-        "button_GNLbpG": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_DG9NNU",
-        "text_XCHQaq",
-        "button_GNLbpG"
+        "text_XCHQaq"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/quaker-favicon-5.png",
@@ -236,7 +227,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "section_color_scheme": "inverse",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
