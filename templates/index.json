@@ -617,9 +617,9 @@
         "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/homepage-donatebanner.png",
+        "image": "shopify:\/\/shop_images\/homepage-donatebanner-2.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
