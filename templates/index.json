@@ -396,6 +396,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/worship1.jpg",
             "caption": "led by the Spirit — Grounded in the silence",
             "heading": "How We Worship",
             "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
@@ -580,56 +581,6 @@
         "padding_bottom": 36
       }
     },
-    "36c87602-a3c6-4ec0-8e5f-4324a318ef86": {
-      "type": "image-banner",
-      "blocks": {
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "DONATE",
-            "button_link_1": "https:\/\/www.centralphiladelphiaquakers.org\/pages\/donations",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-heading-1",
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-text-1",
-        "template--21535825756470__36c87602-a3c6-4ec0-8e5f-4324a318ef86-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/homepage-donatebanner-2.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -746,7 +697,6 @@
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
-    "36c87602-a3c6-4ec0-8e5f-4324a318ef86",
     "multicolumn",
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa"
   ]
