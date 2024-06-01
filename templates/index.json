@@ -407,6 +407,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0912.jpg",
             "caption": "The Quaker Way",
             "heading": "Quaker Spirituality",
             "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
@@ -423,7 +424,7 @@
       "settings": {
         "image_height": "small",
         "desktop_image_width": "medium",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
@@ -451,7 +452,7 @@
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Teachings",
+            "heading": "Videos",
             "icon": "none",
             "row_content": "",
             "page": "teachings"
