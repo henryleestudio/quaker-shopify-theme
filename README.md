@@ -1,7 +1,7 @@
 # Central Philadelphia Quakers | Shopify Theme Development
 
 Link to project: <a target="_blank" href="https://central-philadelphia-quakers.myshopify.com/">live demo</a>
-<span><b>Website Password: quaker</b></span>
+<span><b>Password: quaker</b></span>
 
 <!-- ## Description -->
 A donation based e-commerce platform that is modern, user-friendly, and mobile-responsive. I designed and developed an easy to navigate website, optimized for all devices. I also incorporated functionality to make it easy for visitors to make secure donations.
