@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -179,24 +188,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_YKFzz6": {
-      "type": "featured-blog",
-      "settings": {
-        "section_id": "",
-        "heading": "<strong>What's happening:<\/strong>",
-        "heading_size": "h2",
-        "blog": "whats-happening",
-        "post_limit": 6,
-        "columns_desktop": 3,
-        "color_scheme": "accent-2",
-        "show_image": false,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_X7Pz9e": {
       "type": "image-with-text",
       "blocks": {
@@ -210,7 +201,7 @@
         "text_XCHQaq": {
           "type": "text",
           "settings": {
-            "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our <a href=\"\/pages\/upcoming-events\" title=\"Upcoming Events\">Upcoming Events<\/a> page.<\/li><li>See the <a href=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\" target=\"_blank\" title=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\">meeting calendar<\/a>.<\/li><\/ul>",
+            "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our <a href=\"\/pages\/upcoming-events\" title=\"Upcoming Events\">Upcoming Events<\/a> page.<\/li><li>See the <a href=\"https:\/\/www.calendarwiz.com\/calendars\/calendar.php?crd=central-philadelphia-quakers\" target=\"_blank\" title=\"Central Philadelphia Quaker Meeting Calendar\">meeting calendar<\/a>.<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -690,7 +681,6 @@
     "8d579337-0713-454c-a420-91cd5b1761ad",
     "9c0b6be9-6379-4691-895c-f61ef7b4054d",
     "featured_blog_EgrTFa",
-    "featured_blog_YKFzz6",
     "image_with_text_X7Pz9e",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
