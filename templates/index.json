@@ -431,7 +431,7 @@
     "custom_liquid_CeNPQc": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<title>\nUpcoming Events\n</title>\n<script type=\"text/javascript\" src=\"//www.calendarwiz.com/calendars/ucfeeder.php?crd=cpmm&theme=Master%20Theme\"></script>",
+        "custom_liquid": "<title>\nUpcoming Events\n</title>\n<iframe style=\"border:none;width:100%;height:1600px;\" src=\"https://www.calendarwiz.com/eventboard/?crd=cpmm\" id=\"cw_eventboard_cpmm\"></iframe>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
