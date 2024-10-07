@@ -428,6 +428,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_CeNPQc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<title>\nUpcoming Events\n</title>\n<script type=\"text/javascript\" src=\"//www.calendarwiz.com/calendars/ucfeeder.php?crd=cpmm&theme=Master%20Theme\"></script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
       "type": "collapsible-content",
       "blocks": {
@@ -686,6 +695,7 @@
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
+    "custom_liquid_CeNPQc",
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "multicolumn",
