@@ -229,6 +229,9 @@
     },
     "custom_liquid_CeNPQc": {
       "type": "custom-liquid",
+      "custom_css": [
+        "div{margin-left: 40px; margin-right: 40px;}"
+      ],
       "settings": {
         "custom_liquid": "<title>\nUpcoming Events\n</title>\n<script type=\"text/javascript\" src=\"//www.calendarwiz.com/calendars/ucfeeder.php?crd=cpmm&theme=Master%20Theme\"></script>",
         "color_scheme": "inverse",
