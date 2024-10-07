@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Central Philadelphia  Q<em>uaker<\/em> Meeting",
+            "heading": "Central Philadelphia  Q<em>uaker</em> Meeting",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<strong>Central Philadelphia Monthly Meeting ( CPMM ) * Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually  [<\/strong><a href=\"\/pages\/banner-photo-credit-pendle-hill-charles-rawding\" title=\"Banner Photo Credit - Pendle Hill - Charles Rawding\"><strong>photo credit<\/strong><\/a><strong>]<\/strong>",
+            "text": "<strong>Central Philadelphia Monthly Meeting ( CPMM ) * Join Us For Worship — Sunday  at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually  [</strong><a href=\"/pages/banner-photo-credit-pendle-hill-charles-rawding\" title=\"Banner Photo Credit - Pendle Hill - Charles Rawding\"><strong>photo credit</strong></a><strong>]</strong>",
             "text_style": "subtitle"
           }
         },
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pendle_Hill_and_the_Ribble_Valley_-_geograph.org.uk_-_72304_-_cropped.jpg",
+        "image": "shopify://shop_images/Pendle_Hill_and_the_Ribble_Valley_-_geograph.org.uk_-_72304_-_cropped.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-left",
@@ -70,7 +70,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We each have within us a Light by which we can commune directly with God, <br\/>however you understand the Divine<\/p>"
+            "text": "<p>We each have within us a Light by which we can commune directly with God, <br/>however you understand the Divine</p>"
           }
         },
         "187371e5-4b4e-4029-910a-8ee5e8437bec": {
@@ -83,7 +83,7 @@
         "3a1ad0e4-9370-470e-8ef9-21795eb5e6f9": {
           "type": "text",
           "settings": {
-            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social<br\/>circumstances, sexual orientations, and gender identities.<\/p>"
+            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social<br/>circumstances, sexual orientations, and gender identities.</p>"
           }
         }
       },
@@ -115,7 +115,7 @@
         "template--21497669484854__8d579337-0713-454c-a420-91cd5b1761ad-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social circumstances, sexual orientations, and gender identities.<\/p>",
+            "text": "<p>We warmly invite into our worship and fellowship folks of all races, social circumstances, sexual orientations, and gender identities.</p>",
             "text_style": "body"
           }
         },
@@ -156,7 +156,7 @@
       ],
       "settings": {
         "section_id": "custom-featured-blog",
-        "heading": "<strong>Get to Know Us<\/strong>",
+        "heading": "<strong>Get to Know Us</strong>",
         "heading_size": "h2",
         "blog": "get-to-know-us",
         "post_limit": 6,
@@ -174,7 +174,7 @@
       "type": "featured-blog",
       "settings": {
         "section_id": "",
-        "heading": "<strong>Are you looking for . . . <\/strong>",
+        "heading": "<strong>Are you looking for . . . </strong>",
         "heading_size": "h2",
         "blog": "are-you-looking-for",
         "post_limit": 3,
@@ -194,14 +194,14 @@
         "heading_DG9NNU": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Upcoming Events<\/strong>",
-            "heading_size": "h2"
+            "heading": "<strong>Upcoming Events</strong>",
+            "heading_size": "h1"
           }
         },
         "text_XCHQaq": {
           "type": "text",
           "settings": {
-            "text": "<p>See what's happening  at our meeting:<\/p><ul><li>Visit our <a href=\"https:\/\/www.centralphiladelphiaquakers.org\/pages\/upcoming-events\" title=\"Upcoming Events\">Upcoming Events<\/a> page.<\/li><li>See the <a href=\"\/pages\/events-calender\" title=\"Meeting Events Calender\">Meeting Calendar<\/a>.<\/li><\/ul>",
+            "text": "<h2>See what's happening  at our meeting:</h2><h3>Visit our <a href=\"https://www.centralphiladelphiaquakers.org/pages/upcoming-events\" title=\"Upcoming Events\">Upcoming Events</a> page.</h3><h3>See the <a href=\"/pages/events-calender\" title=\"Meeting Events Calender\">Meeting Calendar</a>.</h3>",
             "text_style": "body"
           }
         }
@@ -211,7 +211,7 @@
         "text_XCHQaq"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/quaker-favicon-5.png",
+        "image": "shopify://shop_images/quaker-favicon-5.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -234,7 +234,7 @@
           "settings": {
             "heading": "Who We Are",
             "icon": "none",
-            "row_content": "<p>Central Philadelphia Quaker Meeting is a large, urban Quaker congregation, diverse in many ways, and we welcome visitors.<br\/><br\/>We welcome individuals of all ages, races, gender identities, and sexual orientations, fostering a sense of community through worship and fellowship.<br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/who-we-are\" target=\"_blank\" title=\"View More\">View More<\/a><\/p>",
+            "row_content": "<p>Central Philadelphia Quaker Meeting is a large, urban Quaker congregation, diverse in many ways, and we welcome visitors.<br/><br/>We welcome individuals of all ages, races, gender identities, and sexual orientations, fostering a sense of community through worship and fellowship.<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/who-we-are\" target=\"_blank\" title=\"View More\">View More</a></p>",
             "page": ""
           }
         },
@@ -243,7 +243,7 @@
           "settings": {
             "heading": "Worship & Spirituality",
             "icon": "none",
-            "row_content": "<p>The core of <strong>Quaker spirituality<\/strong> lies in turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit—we name it in different ways, but we share the same experience: that each of us can commune with God directly, without mediating persons, books, or rituals.<br\/><br\/>In our hour-long <strong>worship<\/strong>, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit.<br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102<br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/about\" target=\"_blank\" title=\"View More\">View More<\/a><\/p>",
+            "row_content": "<p>The core of <strong>Quaker spirituality</strong> lies in turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit—we name it in different ways, but we share the same experience: that each of us can commune with God directly, without mediating persons, books, or rituals.<br/><br/>In our hour-long <strong>worship</strong>, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit.<br/><br/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/about\" target=\"_blank\" title=\"View More\">View More</a></p>",
             "page": ""
           }
         },
@@ -252,7 +252,7 @@
           "settings": {
             "heading": "Our Virtual Meeting for Worship",
             "icon": "none",
-            "row_content": "<p>You can also join us via Zoom. Here’s the link and login info:<br\/><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" title=\"Zoom meeting\"><br\/>Click here to join the hybrid meeting<\/a><a href=\"https:\/\/us02web.zoom.us\/j\/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\"><br\/><\/a><br\/>Meeting ID: 550 104 323<br\/>Passcode: cpmm<\/p>",
+            "row_content": "<p>You can also join us via Zoom. Here’s the link and login info:<br/><a href=\"https://us02web.zoom.us/j/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" title=\"Zoom meeting\"><br/>Click here to join the hybrid meeting</a><a href=\"https://us02web.zoom.us/j/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\"><br/></a><br/>Meeting ID: 550 104 323<br/>Passcode: cpmm</p>",
             "page": ""
           }
         },
@@ -261,7 +261,7 @@
           "settings": {
             "heading": "Families & Children",
             "icon": "none",
-            "row_content": "<p><strong>Childcare. <\/strong>During worship and other activities, we offer childcare for our youngest attenders, ages 0 to 4, every Sunday.<\/p><p><strong>Sunday school.<\/strong> Every first and third Sunday, we offer \"First Day School\", akin to \"Sunday School,\" weaving age-appropriate lessons with Quaker values, among them nonviolence, honesty, equality, community, and care for the earth.<\/p><p><strong>Parents<\/strong> are invited to bring their children to worship, recognizing that for some kids, an hour of (relative) silence can be a challenge. <\/p><p><strong>Child safety.<\/strong> Please read our <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Policy_on_the_Safety_of_our_Meeting_s_Children_5.23.pdf.zip?v=1701363595 \" title=\"Child Safety Policy\">Child Safety Policy<\/a> to understand our commitment to your children's safety.<br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/families-children\" target=\"_blank\" title=\"View More\">View More<\/a><\/p>",
+            "row_content": "<p><strong>Childcare. </strong>During worship and other activities, we offer childcare for our youngest attenders, ages 0 to 4, every Sunday.</p><p><strong>Sunday school.</strong> Every first and third Sunday, we offer \"First Day School\", akin to \"Sunday School,\" weaving age-appropriate lessons with Quaker values, among them nonviolence, honesty, equality, community, and care for the earth.</p><p><strong>Parents</strong> are invited to bring their children to worship, recognizing that for some kids, an hour of (relative) silence can be a challenge. </p><p><strong>Child safety.</strong> Please read our <a href=\"https://cdn.shopify.com/s/files/1/0840/8524/4214/files/Policy_on_the_Safety_of_our_Meeting_s_Children_5.23.pdf.zip?v=1701363595 \" title=\"Child Safety Policy\">Child Safety Policy</a> to understand our commitment to your children's safety.<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/families-children\" target=\"_blank\" title=\"View More\">View More</a></p>",
             "page": ""
           }
         },
@@ -311,7 +311,7 @@
         "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.<\/p>",
+            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.</p>",
             "text_style": "body"
           }
         },
@@ -319,7 +319,7 @@
           "type": "button",
           "settings": {
             "button_label": "DONATE",
-            "button_link": "https:\/\/www.centralphiladelphiaquakers.org\/pages\/donations",
+            "button_link": "https://www.centralphiladelphiaquakers.org/pages/donations",
             "button_style_secondary": true
           }
         }
@@ -331,10 +331,10 @@
       ],
       "settings": {
         "section-id": "home-page-video",
-        "image": "shopify:\/\/shop_images\/meetinghouse-with-flowering-tree.jpg",
+        "image": "shopify://shop_images/meetinghouse-with-flowering-tree.jpg",
         "youtube_video_url": "",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6973871f50024c0cb629c7774174ffc7.mp4",
-        "video_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/8524\/4214\/files\/Screen_Shot_2023-11-30_at_9.14.08_AM.png?v=1701353778",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/6973871f50024c0cb629c7774174ffc7.mp4",
+        "video_img_url": "https://cdn.shopify.com/s/files/1/0840/8524/4214/files/Screen_Shot_2023-11-30_at_9.14.08_AM.png?v=1701353778",
         "autoplay": false,
         "show_controls": true,
         "loop_video": false,
@@ -362,7 +362,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=3H08cyXVYDw&t=14s",
+        "video_url": "https://www.youtube.com/watch?v=3H08cyXVYDw&t=14s",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -376,34 +376,34 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CentralPhiladelphiaMeeting_765x510_30cda132-beec-497f-8cad-d4d3c5977b30.png",
+            "image": "shopify://shop_images/CentralPhiladelphiaMeeting_765x510_30cda132-beec-497f-8cad-d4d3c5977b30.png",
             "caption": "About Us",
             "heading": "Who We Are",
-            "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br\/><br\/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually<\/p>",
+            "text": "<p>Central Philadelphia Quaker Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <br/><br/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102 or Meet Virtually</p>",
             "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/who-we-are"
+            "button_link": "shopify://pages/who-we-are"
           }
         },
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/worship1.jpg",
+            "image": "shopify://shop_images/worship1.jpg",
             "caption": "led by the Spirit — Grounded in the silence",
             "heading": "How We Worship",
-            "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br\/><br\/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.<\/p>",
+            "text": "<p>In our hour-long worship, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit. <br/><br/>The worship concludes with a handshake and \"Good morning.\" Afterward, we share joys, sorrows, and invite visitors to introduce themselves.</p>",
             "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/worship-spirituality"
+            "button_link": "shopify://pages/worship-spirituality"
           }
         },
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0912.jpg",
+            "image": "shopify://shop_images/IMG_0912.jpg",
             "caption": "The Quaker Way",
             "heading": "Quaker Spirituality",
-            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br\/><br\/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.<\/p>",
+            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, whether named as the Light of Christ, God within, or the Spirit. <br/><br/>This direct communion with God, described as \"sinking down in the Seed,\" guides, heals, forgives, inspires, and leads to a fulfilling life of service for Love and Truth.</p>",
             "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/worship-spirituality"
+            "button_link": "shopify://pages/worship-spirituality"
           }
         }
       },
@@ -454,7 +454,7 @@
           "settings": {
             "heading": "Venue Rentals",
             "icon": "none",
-            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br\/><br\/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please contact Friends Center, the booking agent: <a href=\"https:\/\/friendscentercorp.org\/event-space\/\" target=\"_blank\" title=\"Booking space through Friends Center\">Friends Center Event Space<\/a>.<\/p>",
+            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br/><br/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please contact Friends Center, the booking agent: <a href=\"https://friendscentercorp.org/event-space/\" target=\"_blank\" title=\"Booking space through Friends Center\">Friends Center Event Space</a>.</p>",
             "page": ""
           }
         },
@@ -463,7 +463,7 @@
           "settings": {
             "heading": "Membership",
             "icon": "none",
-            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br\/><br\/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">apply for Membership<\/a><br\/><br\/><a href=\"https:\/\/the-central-philadelphia-quaker-meeting.myshopify.com\/pages\/memberships\" title=\"Memberships\">View More<\/a><\/p>",
+            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values after getting to know us, we invite you to consider joining the meeting formally.<br/><br/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to <a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/memberships\" title=\"Memberships\">apply for Membership</a><br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/memberships\" title=\"Memberships\">View More</a></p>",
             "page": ""
           }
         },
@@ -580,27 +580,27 @@
           "type": "column",
           "settings": {
             "title": "Who We Are",
-            "text": "<p>Who We Are<br\/><br\/>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends<\/em> are led by the Spirit<\/p>",
+            "text": "<p>Who We Are<br/><br/>Central Philadelphia Meeting of the Religious Society of Friends is a large, urban Quaker meeting, diverse in many ways, and we welcome visitors. <em>Quaker Friends</em> are led by the Spirit</p>",
             "link_label": "ABOUT US",
-            "link": "\/pages\/who-we-are"
+            "link": "/pages/who-we-are"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
             "title": "Faith & Practice",
-            "text": "<p><a href=\"https:\/\/www.pym.org\/faith-and-practice\/\"><em>Faith and Practice<\/em><\/a> is revised every generation or so and presents our latest agreements on the Quaker way, outlining our history, experience and beliefs, and organization and procedures.<\/p>",
+            "text": "<p><a href=\"https://www.pym.org/faith-and-practice/\"><em>Faith and Practice</em></a> is revised every generation or so and presents our latest agreements on the Quaker way, outlining our history, experience and beliefs, and organization and procedures.</p>",
             "link_label": "LEARN MORE",
-            "link": "https:\/\/www.pym.org\/faith-and-practice\/"
+            "link": "https://www.pym.org/faith-and-practice/"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
             "title": "Quakers Spirituality",
-            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit — in that each of us can commune with God directly.<\/p>",
+            "text": "<p>The core of Quaker spirituality is about turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit — in that each of us can commune with God directly.</p>",
             "link_label": "LEARN MORE",
-            "link": "shopify:\/\/pages\/worship-spirituality"
+            "link": "shopify://pages/worship-spirituality"
           }
         }
       },
@@ -640,7 +640,7 @@
         "template--21535825756470__9428b839-4c2a-4e05-b035-49bdaa29b9fa-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Central Philadelphia Quaker Meeting is held at Friends Center, located at 1501 Cherry Street, Philadelphia, PA 19102.<\/p><p><strong>Phone:<\/strong> (215) 241-7260<\/p><p><strong>Email:<\/strong> <a href=\"mailto:office@cpmm.org\">office@cpmm.org<\/a><\/p>",
+            "text": "<p>The Central Philadelphia Quaker Meeting is held at Friends Center, located at 1501 Cherry Street, Philadelphia, PA 19102.</p><p><strong>Phone:</strong> (215) 241-7260</p><p><strong>Email:</strong> <a href=\"mailto:office@cpmm.org\">office@cpmm.org</a></p>",
             "text_style": "body"
           }
         },
@@ -648,7 +648,7 @@
           "type": "button",
           "settings": {
             "button_label": "PARKING & TRANSIT",
-            "button_link": "shopify:\/\/pages\/parking-transit",
+            "button_link": "shopify://pages/parking-transit",
             "button_style_secondary": false
           }
         }
