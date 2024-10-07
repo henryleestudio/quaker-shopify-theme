@@ -230,10 +230,10 @@
     "custom_liquid_CeNPQc": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<title>\nUpcoming Events\n</title>\n<iframe style=\"border:none;width:100%;height:1600px;\" src=\"https://www.calendarwiz.com/eventboard/?crd=cpmm\" id=\"cw_eventboard_cpmm\"></iframe>",
-        "color_scheme": "",
+        "custom_liquid": "<title>\nUpcoming Events\n</title>\n<iframe style=\"border:none;width:100%;height:1200px;\" src=\"https://www.calendarwiz.com/eventboard/?crd=cpmm\" id=\"cw_eventboard_cpmm\"></iframe>",
+        "color_scheme": "inverse",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 4
       }
     },
     "8d4c7336-7021-490b-815e-6ebffc0a7f92": {
