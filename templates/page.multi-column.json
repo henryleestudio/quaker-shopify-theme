@@ -35,15 +35,15 @@
         "button_gtJN7L"
       ],
       "custom_css": [
-        "div{float:letf; margin-right: 15px;}"
+        "rich text{float: left; margin-right: 15px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 32
       }
     },
     "main": {
