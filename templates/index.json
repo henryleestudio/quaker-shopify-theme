@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -151,9 +151,7 @@
     },
     "9c0b6be9-6379-4691-895c-f61ef7b4054d": {
       "type": "featured-blog",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "section_id": "custom-featured-blog",
         "heading": "<strong>Get to Know Us</strong>",
@@ -450,7 +448,7 @@
             "heading": "Events Calendar",
             "icon": "none",
             "row_content": "",
-            "page": "events-calender"
+            "page": "events-calender-archived"
           }
         },
         "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
@@ -533,8 +531,7 @@
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-price-1": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-variant_picker-1": {
           "type": "variant_picker",
@@ -544,8 +541,7 @@
         },
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-quantity_selector-1": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--21535825756470__d4734510-a395-477c-a52a-e7982b7bf8f7-buy_buttons-1": {
           "type": "buy_buttons",
