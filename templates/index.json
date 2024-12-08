@@ -370,7 +370,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3"
       ],
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "medium",
         "heading_size": "h2",
         "text_style": "body",
