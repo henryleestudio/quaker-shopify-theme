@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -9,14 +18,14 @@
           "type": "text",
           "settings": {
             "heading": "Logo here",
-            "subtext": "<p><strong>1501 Cherry St., Philadelphia, PA 19102.<\/strong><\/p><p><strong>Phone: 215-241-7260<\/strong><\/p><p><strong>Email: office[at]cpmm.org<\/strong><\/p>"
+            "subtext": "<p><strong>1501 Cherry St., Philadelphia, PA 19102.</strong></p><p><strong>Phone: 215-241-7260</strong></p><p><strong>Email: office[at]cpmm.org</strong></p>"
           }
         },
         "687d9a6d-3c1e-4772-b821-c5e919e4b5ce": {
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p><strong>*  Central Philadelphia Meeting is a \"monthly\" meeting, because we meet once a month to conduct our business. We worship every week on Sundays at 11 am.<\/strong><\/p>"
+            "subtext": "<p><strong>*  Central Philadelphia Meeting is a \"monthly\" meeting, because we meet once a month to conduct our business. We worship every week on Sundays at 11 am.</strong></p>"
           }
         },
         "footer-0": {
@@ -36,7 +45,7 @@
         "color_scheme": "accent-2",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,
@@ -51,7 +60,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<iframe\n\nstyle=\"width: 100%; border: none;\"\n  src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d12233.418572713681!2d-75.16511!3d39.955823!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c62d94946681%3A0x80b25c75a771d645!2s1515%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1699560934556!5m2!1sen!2sus\"\n  width=\"600\"\n  height=\"500\"\n  allowfullscreen=\"\"\n  loading=\"lazy\"\n  referrerpolicy=\"no-referrer-when-downgrade\"\n><\/iframe>",
+        "custom_liquid": "<iframe\n\nstyle=\"width: 100%; border: none;\"\n  src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12233.418572713681!2d-75.16511!3d39.955823!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c62d94946681%3A0x80b25c75a771d645!2s1515%20Cherry%20St%2C%20Philadelphia%2C%20PA%2019102!5e0!3m2!1sen!2sus!4v1699560934556!5m2!1sen!2sus\"\n  width=\"600\"\n  height=\"500\"\n  allowfullscreen=\"\"\n  loading=\"lazy\"\n  referrerpolicy=\"no-referrer-when-downgrade\"\n></iframe>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
