@@ -309,60 +309,6 @@
         "padding_bottom": 36
       }
     },
-    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d": {
-      "type": "video-with-text",
-      "blocks": {
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Support Central Philadelphia Quaker Meeting",
-            "heading_size": "h2"
-          }
-        },
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "DONATE",
-            "button_link": "https://www.centralphiladelphiaquakers.org/pages/donations",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1",
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1",
-        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1"
-      ],
-      "settings": {
-        "section-id": "home-page-video",
-        "image": "shopify://shop_images/meetinghouse-with-flowering-tree.jpg",
-        "youtube_video_url": "",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/6973871f50024c0cb629c7774174ffc7.mp4",
-        "video_img_url": "https://cdn.shopify.com/s/files/1/0840/8524/4214/files/Screen_Shot_2023-11-30_at_9.14.08_AM.png?v=1701353778",
-        "autoplay": false,
-        "show_controls": true,
-        "loop_video": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "background-2",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1ae16060-00de-43df-88fc-077b6474aa3c": {
       "type": "video",
       "disabled": true,
@@ -507,6 +453,60 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support Central Philadelphia Quaker Meeting",
+            "heading_size": "h2"
+          }
+        },
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us in making a positive impact by contributing to Central Philadelphia Quaker Meeting directly through our secure online donation platform. Your generosity can make a difference, and the process is simple, transparent, and easy.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "DONATE",
+            "button_link": "https://www.centralphiladelphiaquakers.org/pages/donations",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-heading-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-text-1",
+        "template--21535825756470__a370c266-ff04-4677-8ffd-b1b1be3d9c6d-button-1"
+      ],
+      "settings": {
+        "section-id": "home-page-video",
+        "image": "shopify://shop_images/meetinghouse-with-flowering-tree.jpg",
+        "youtube_video_url": "",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/6973871f50024c0cb629c7774174ffc7.mp4",
+        "video_img_url": "https://cdn.shopify.com/s/files/1/0840/8524/4214/files/Screen_Shot_2023-11-30_at_9.14.08_AM.png?v=1701353778",
+        "autoplay": false,
+        "show_controls": true,
+        "loop_video": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "background-2",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -693,10 +693,10 @@
     "image_with_text_X7Pz9e",
     "custom_liquid_CeNPQc",
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
-    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
+    "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "multicolumn",
     "9428b839-4c2a-4e05-b035-49bdaa29b9fa"
