@@ -332,6 +332,7 @@
       "blocks": {
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-1": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CentralPhiladelphiaMeeting500x333.png",
             "caption": "About Us",
