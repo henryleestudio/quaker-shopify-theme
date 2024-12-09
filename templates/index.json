@@ -402,7 +402,7 @@
           "settings": {
             "heading": "Videos",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Test content</p>",
             "page": "videos-by-our-members"
           }
         },
