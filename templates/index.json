@@ -284,6 +284,15 @@
             "row_content": "",
             "page": "parking-transit"
           }
+        },
+        "collapsible_row_gVFVFV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Videos by Our Members",
+            "icon": "none",
+            "row_content": "<p>To view many more videos and lots of other resources on Quakerism, visit our <a href=\"/pages/resources-on-quakerism\" title=\"Resources on Quakerism\">Resources on Quakerism</a> page.</p>",
+            "page": "videos-by-our-members"
+          }
         }
       },
       "block_order": [
@@ -291,7 +300,8 @@
         "bc24e3af-5cba-4e8d-b3fe-902d390663ca",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3"
+        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3",
+        "collapsible_row_gVFVFV"
       ],
       "settings": {
         "section_id": "learn-more-collapsible-content",
