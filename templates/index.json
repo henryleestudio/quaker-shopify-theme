@@ -258,15 +258,6 @@
             "page": ""
           }
         },
-        "collapsible_row_gVFVFV": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Videos by Our Members",
-            "icon": "none",
-            "row_content": "<p>To view many more videos and lots of other resources on Quakerism, visit our <a href=\"/pages/resources-on-quakerism\" title=\"Resources on Quakerism\">Resources on Quakerism</a> page.</p>",
-            "page": "videos-by-our-members"
-          }
-        },
         "collapsible_row_gLfEGK": {
           "type": "collapsible_row",
           "settings": {
@@ -275,19 +266,28 @@
             "row_content": "<p>We don't require that you believe certain things  in order to become a member. We're more focused on your <em>experience</em> of the Divine.</p><p>While our members hold a very wide variety of beliefs, still there is a solid core to our faith.</p><p>Click the link to <a href=\"/pages/what-do-we-believe\" title=\"What Do We Believe?\">learn more</a>.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_gVFVFV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Videos by Our Members",
+            "icon": "none",
+            "row_content": "<p>To view many more videos and lots of other resources on Quakerism, visit our <a href=\"/pages/resources-on-quakerism\" title=\"Resources on Quakerism\">Resources on Quakerism</a> page.</p>",
+            "page": "videos-by-our-members"
+          }
         }
       },
       "block_order": [
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
-        "collapsible_row_gVFVFV",
-        "collapsible_row_gLfEGK"
+        "collapsible_row_gLfEGK",
+        "collapsible_row_gVFVFV"
       ],
       "settings": {
         "section_id": "learn-more-collapsible-content",
         "caption": "",
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "More About Us and Quakerism",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-2",
