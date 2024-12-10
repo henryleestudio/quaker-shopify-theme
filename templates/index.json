@@ -291,7 +291,16 @@
             "heading": "Resources on Quakerism",
             "icon": "none",
             "row_content": "",
-            "page": "resources-on-quakerism"
+            "page": ""
+          }
+        },
+        "collapsible_row_RGT6fJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         }
       },
@@ -301,7 +310,8 @@
         "collapsible_row_gLfEGK",
         "collapsible_row_yRiCMw",
         "collapsible_row_gVFVFV",
-        "collapsible_row_b9FcWn"
+        "collapsible_row_b9FcWn",
+        "collapsible_row_RGT6fJ"
       ],
       "settings": {
         "section_id": "learn-more-collapsible-content",
@@ -379,6 +389,7 @@
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-2",
         "template--21535825756470__eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec-row-3"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
@@ -398,22 +409,13 @@
     "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
       "type": "collapsible-content",
       "blocks": {
-        "c4a2f36c-0297-46c5-8bc3-9ac5d6b28199": {
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Events Calendar",
+            "heading": "Friends Southwestern Burial Grounds",
             "icon": "none",
             "row_content": "",
-            "page": "events-calender-archived"
-          }
-        },
-        "b55ae0ee-b6ca-49fa-9add-61ab5aa00932": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Videos",
-            "icon": "none",
-            "row_content": "<p>Test content</p>",
-            "page": "videos-by-our-members"
+            "page": "friends-southwestern-burial-ground"
           }
         },
         "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
@@ -424,38 +426,17 @@
             "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br/><br/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please contact Friends Center, the booking agent: <a href=\"https://friendscentercorp.org/event-space/\" target=\"_blank\" title=\"Booking space through Friends Center\">Friends Center Event Space</a>.</p>",
             "page": ""
           }
-        },
-        "f89f625d-6147-43a7-af95-2ded06c63685": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Membership",
-            "icon": "none",
-            "row_content": "<p>You can participate in meeting activities without becoming a member. If you find the Quaker way aligns with your values and meets your spiritual needs after getting to know us, we invite you to consider joining the meeting formally.<br/><br/>To learn more about what Membership in the meeting means to us, why you might consider joining our meeting, and how to apply for Membership, click the link below.<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/memberships\" title=\"Memberships\">View More</a></p>",
-            "page": ""
-          }
-        },
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Burial Grounds",
-            "icon": "none",
-            "row_content": "",
-            "page": "friends-southwestern-burial-ground"
-          }
         }
       },
       "block_order": [
-        "c4a2f36c-0297-46c5-8bc3-9ac5d6b28199",
-        "b55ae0ee-b6ca-49fa-9add-61ab5aa00932",
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1",
-        "f89f625d-6147-43a7-af95-2ded06c63685",
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2"
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2",
+        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1"
       ],
       "settings": {
-        "section_id": "",
+        "section_id": "even-more-about-us",
         "caption": "",
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "Even More",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "",
