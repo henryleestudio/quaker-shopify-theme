@@ -284,6 +284,15 @@
             "row_content": "<p>To view many more videos and lots of other resources on Quakerism, visit our <a href=\"/pages/resources-on-quakerism\" title=\"Resources on Quakerism\">Resources on Quakerism</a> page.</p>",
             "page": "videos-by-our-members"
           }
+        },
+        "collapsible_row_b9FcWn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Resources on Quakerism",
+            "icon": "none",
+            "row_content": "",
+            "page": "resources-on-quakerism"
+          }
         }
       },
       "block_order": [
@@ -291,7 +300,8 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "collapsible_row_gLfEGK",
         "collapsible_row_yRiCMw",
-        "collapsible_row_gVFVFV"
+        "collapsible_row_gVFVFV",
+        "collapsible_row_b9FcWn"
       ],
       "settings": {
         "section_id": "learn-more-collapsible-content",
