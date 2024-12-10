@@ -249,15 +249,6 @@
             "page": ""
           }
         },
-        "bc24e3af-5cba-4e8d-b3fe-902d390663ca": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Worship & Spirituality",
-            "icon": "none",
-            "row_content": "<p>The core of <strong>Quaker spirituality</strong> lies in turning toward the Light within each of us, the Light of Christ, that of God within us, the Spirit—we name it in different ways, but we share the same experience: that each of us can commune with God directly, without mediating persons, books, or rituals.<br/><br/>In our hour-long <strong>worship</strong>, we begin in silence, allowing time to settle into a deep, centered space. We wait expectantly on the Divine, opening ourselves to the Spirit. Some may be moved to speak, sharing messages led by the Spirit.<br/><br/>Join Us For Worship — Sunday at 11am 1501 Cherry St, Philadelphia, PA 19102<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/about\" target=\"_blank\" title=\"View More\">View More</a></p>",
-            "page": ""
-          }
-        },
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
@@ -265,24 +256,6 @@
             "icon": "none",
             "row_content": "<p>You can also join our 11:00 am worship via Zoom. Here’s the link and login info:<br/><a href=\"https://us02web.zoom.us/j/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" title=\"Zoom meeting\"><br/>Click here to join the hybrid meeting</a><a href=\"https://us02web.zoom.us/j/550104323?pwd=VnBSS0V1L3RsNUhsL09nZE1VcTYrdz09\" target=\"_blank\"><br/></a><br/>Meeting ID: 550 104 323<br/>Passcode: cpmm</p>",
             "page": ""
-          }
-        },
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Families & Children",
-            "icon": "none",
-            "row_content": "<p><strong>Childcare. </strong>During worship and other activities, we offer childcare for our youngest attenders, ages 0 to 4, every Sunday.</p><p><strong>Sunday school.</strong> Every first and third Sunday, we offer \"First Day School\", akin to \"Sunday School,\" weaving age-appropriate lessons with Quaker values, among them nonviolence, honesty, equality, community, and care for the earth.</p><p><strong>Parents</strong> are invited to bring their children to worship, recognizing that for some kids, an hour of (relative) silence can be a challenge. </p><p><strong>Child safety.</strong> Please read our <a href=\"https://cdn.shopify.com/s/files/1/0840/8524/4214/files/Policy_on_the_Safety_of_our_Meeting_s_Children_5.23.pdf.zip?v=1701363595 \" title=\"Child Safety Policy\">Child Safety Policy</a> to understand our commitment to your children's safety.<br/><br/><a href=\"https://the-central-philadelphia-quaker-meeting.myshopify.com/pages/families-children\" target=\"_blank\" title=\"View More\">View More</a></p>",
-            "page": ""
-          }
-        },
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Parking & Transit",
-            "icon": "none",
-            "row_content": "",
-            "page": "parking-transit"
           }
         },
         "collapsible_row_gVFVFV": {
@@ -293,15 +266,22 @@
             "row_content": "<p>To view many more videos and lots of other resources on Quakerism, visit our <a href=\"/pages/resources-on-quakerism\" title=\"Resources on Quakerism\">Resources on Quakerism</a> page.</p>",
             "page": "videos-by-our-members"
           }
+        },
+        "collapsible_row_gLfEGK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What Do We Believe?",
+            "icon": "none",
+            "row_content": "<p>We don't require that you believe certain things  in order to become a member. We're more focused on your <em>experience</em> of the Divine.</p><p>While our members hold a very wide variety of beliefs, still there is a solid core to our faith.</p><p>Click the link to <a href=\"/pages/what-do-we-believe\" title=\"What Do We Believe?\">learn more</a>.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4",
-        "bc24e3af-5cba-4e8d-b3fe-902d390663ca",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-2",
-        "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-3",
-        "collapsible_row_gVFVFV"
+        "collapsible_row_gVFVFV",
+        "collapsible_row_gLfEGK"
       ],
       "settings": {
         "section_id": "learn-more-collapsible-content",
