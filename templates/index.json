@@ -416,48 +416,6 @@
         "padding_bottom": 36
       }
     },
-    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Friends Southwestern Burial Grounds",
-            "icon": "none",
-            "row_content": "",
-            "page": "friends-southwestern-burial-ground"
-          }
-        },
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Venue Rentals",
-            "icon": "none",
-            "row_content": "<p>Welcome to our versatile and accommodating venue, an ideal space for a variety of occasions. Whether you're planning a wedding, memorial, family gathering, business meeting, or any other event, our venue provides a warm and inviting atmosphere to make your special day memorable.<br/><br/>We look forward to helping you create the perfect setting for your next event. To inquire about availability and rental details, please contact Friends Center, the booking agent: <a href=\"https://friendscentercorp.org/event-space/\" target=\"_blank\" title=\"Booking space through Friends Center\">Friends Center Event Space</a>.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-2",
-        "template--21535825756470__061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c-collapsible_row-1"
-      ],
-      "settings": {
-        "section_id": "even-more-about-us",
-        "caption": "",
-        "heading": "Even More",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d": {
       "type": "video-with-text",
       "blocks": {
@@ -696,7 +654,6 @@
     "8d4c7336-7021-490b-815e-6ebffc0a7f92",
     "1ae16060-00de-43df-88fc-077b6474aa3c",
     "eddc2a1c-f7b1-4ffa-9b6e-f40ecedc4bec",
-    "061ee2dd-261f-4ef2-bb0e-98ad8f4fc05c",
     "a370c266-ff04-4677-8ffd-b1b1be3d9c6d",
     "d4734510-a395-477c-a52a-e7982b7bf8f7",
     "multicolumn",
