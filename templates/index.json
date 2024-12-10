@@ -297,10 +297,10 @@
         "collapsible_row_RGT6fJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Friends Southwestern Burial Ground",
+            "icon": "none",
             "row_content": "",
-            "page": ""
+            "page": "friends-southwestern-burial-ground"
           }
         }
       },
