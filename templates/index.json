@@ -267,6 +267,15 @@
             "page": ""
           }
         },
+        "collapsible_row_yRiCMw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Membership",
+            "icon": "none",
+            "row_content": "<h4>Welcome!</h4><p>We seek to be a welcoming community to all people regardless of their race or ethnicity, gender identity, sexual orientation, or social situation, and we invite you to worship with us and to participate in our community life, whether you are members or not.</p><p><a href=\"/pages/membership\" title=\"Membership\">Learn more</a>.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_gVFVFV": {
           "type": "collapsible_row",
           "settings": {
@@ -281,6 +290,7 @@
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-4",
         "template--21535825756470__8d4c7336-7021-490b-815e-6ebffc0a7f92-collapsible_row-1",
         "collapsible_row_gLfEGK",
+        "collapsible_row_yRiCMw",
         "collapsible_row_gVFVFV"
       ],
       "settings": {
