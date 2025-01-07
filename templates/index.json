@@ -232,7 +232,7 @@
             "heading": "Parking & Transit",
             "icon": "none",
             "row_content": "",
-            "page": "parking-transit"
+            "page": "getting-to-us-parking-transit"
           }
         }
       },
@@ -656,7 +656,7 @@
           "type": "button",
           "settings": {
             "button_label": "PARKING & TRANSIT",
-            "button_link": "shopify://pages/parking-transit",
+            "button_link": "shopify://pages/getting-to-us-parking-transit",
             "button_style_secondary": false
           }
         }
