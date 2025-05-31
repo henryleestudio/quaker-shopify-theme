@@ -14,18 +14,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Logo here",
-            "subtext": "<p><strong>1501 Cherry St., Philadelphia, PA 19102.</strong></p><p><strong>Phone: 215-241-7260</strong></p><p><strong>Email: office[at]cpmm.org</strong></p>"
-          }
-        },
         "687d9a6d-3c1e-4772-b821-c5e919e4b5ce": {
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p><strong>*  Central Philadelphia Meeting is a \"monthly\" meeting, because we meet once a month to conduct our business. We worship every week on Sundays at 11 am.</strong></p>"
+            "subtext": "<p><strong>1501 Cherry St., Philadelphia, PA 19102.</strong></p><p><strong>Phone: 215-241-7260</strong></p><p><strong>Email: office[at]cpmm.org</strong></p><p><strong>*  Central Philadelphia Meeting is a \"monthly\" meeting, because we meet once a month to conduct our business. We worship every week on Sundays at 11 am.</strong></p>"
           }
         },
         "footer-0": {
@@ -37,7 +30,6 @@
         }
       },
       "block_order": [
-        "footer-2",
         "687d9a6d-3c1e-4772-b821-c5e919e4b5ce",
         "footer-0"
       ],
